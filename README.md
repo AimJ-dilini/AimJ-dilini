@@ -1,4 +1,12 @@
-# <div align="center">👋 Welcome to my GitHub! 👋</div>
+
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5ldndlMnNzeTQzaHBvNGw5M2R5NWk2Y2toajl6YzRva2U2d3ZteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+    Welcome to My GitHub!
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5ldndlMnNzeTQzaHBvNGw5M2R5NWk2Y2toajl6YzRva2U2d3ZteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p><em>Where code meets creativity ✨</em></p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/assets/Rainbow.gif" width="100%"/>
@@ -20,8 +28,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" />
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/AimJ-dilini?tab=followers">
+    <img src="https://img.shields.io/github/followers/AimJ-dilini?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -77,14 +85,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/AimJ-dilini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/AimJ-dilini">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&background=0D1117" />
   </a>
 </div>
@@ -93,7 +101,7 @@
 
 <!-- GitHub activity graph -->
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/AimJ-dilini">
     <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </div>
