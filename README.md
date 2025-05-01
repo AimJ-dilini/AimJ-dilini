@@ -64,7 +64,7 @@
 <!-- Spotify Now Playing -->
 <div align="center">
   <a href="https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64">
-    <img src="novatorem-a3z6yxgnx-dilinis-projects-1d267dea.vercel.app" alt="Spotify Now Playing" width="450" />
+    <img src="https://novatorem-a3z6yxgnx-dilinis-projects-1d267dea.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
   </a>
 </div>
 
