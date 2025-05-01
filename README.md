@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
 <p align="center">
@@ -28,29 +28,37 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Repository Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-23-blue?style=for-the-badge" alt="Total Repositories" />
-  <img src="https://img.shields.io/badge/Public%20Repositories-18-green?style=for-the-badge" alt="Public Repositories" />
-  <img src="https://img.shields.io/badge/Private%20Repositories-5-red?style=for-the-badge" alt="Private Repositories" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-19-blue?style=for-the-badge" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repositories-10-green?style=for-the-badge" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/Private%20Repositories-9-red?style=for-the-badge" alt="Private Repositories" />
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" />
 
-- 🔭 I'm currently working on **[Project Name](https://github.com/your-username/project-name)**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your Skills]**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🚀 Building cool things at [Zaper AI]
+- 🌱 Learning new tech every day — currently diving into [Technology/Framework]
+- 🧠 Currently exploring how to make apps smarter with AI
+- 🛠️ Love building clean, intuitive UI with Flutter
+- 📫 How to reach me: **hpdilinibuddhika@gmail.com**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -156,7 +164,6 @@
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered-by-coffee" />
 </p>
 
 <!-- RAINBOW LINE BOTTOM -->
