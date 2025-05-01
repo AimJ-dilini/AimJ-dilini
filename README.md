@@ -1,6 +1,10 @@
 # <div align="center">👋 Welcome to my GitHub! 👋</div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/assets/Rainbow.gif" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+The+Future" alt="Typing SVG" />
 </div>
 
@@ -57,6 +61,13 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
 
+<!-- Spotify Now Playing -->
+<div align="center">
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://novatorem-psi-eight.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/your-username">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
@@ -94,6 +105,11 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
 
+<!-- Custom visitor counter with animation -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Visitor Count" />
+</div>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
@@ -101,6 +117,17 @@
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect With Me
+
+<!-- Blog Post Workflow -->
+<div align="center">
+  <h3>📕 Latest Blog Posts</h3>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- This section will be automatically updated by the blog post workflow -->
+  <!-- BLOG-POST-LIST:END -->
+  
+  <a href="https://dev.to/your-username" target="_blank">➡️ More blog posts</a>
+</div>
 
 <p align="center">
   <a href="https://twitter.com/your-twitter">

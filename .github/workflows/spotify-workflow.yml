@@ -1,0 +1,19 @@
+# spotify-workflow.yml (Place in .github/workflows/spotify-workflow.yml)
+name: Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "0 */1 * * *" # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: puf17640/spotify-box@master
+        with:
+          spotify_username: ${{ secrets.SPOTIFY_USERNAME }}
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}

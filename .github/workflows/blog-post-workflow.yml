@@ -1,0 +1,18 @@
+# blog-post-workflow.yml (Place in .github/workflows/blog-post-workflow.yml)
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */24 * * *' # Runs every day
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/your-username" # Replace with your RSS feed URL
+          max_post_count: 5
