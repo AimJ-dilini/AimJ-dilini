@@ -77,6 +77,10 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
 
 <!-- Spotify Now Playing -->
+
+[![Spotify](https://novatorem-seven-lime-94.vercel.app/api/spotify)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64">
     <img src="https://novatorem-seven-lime-94.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
@@ -107,23 +111,23 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE5YWR1bmZmN2o2eHVrdXBpeWcxeTc1NHNjcmIzbHBzM3R5d21zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTtANKl0beDFQRLDTh/giphy.gif" width="40"> Latest Projects
-
+<br>
 <div align="center">
   <a href="https://github.com/AimJ-dilini/chatgpt_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=chatgpt_app&theme=tokyonight&bg_color=0D1117" />
   </a>
   <a href="https://github.com/AimJ-dilini/openai_backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=openai_backend&theme=tokyonight&bg_color=0D1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=todo_hive_app&theme=tokyonight&bg_color=0D1117" />
   </a>
-</div>
-
+</div> 
 <br>
-
+<!--
 <div align="center">
   <a href="https://github.com/AimJ-dilini/CoconutAgriculture">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=CoconutAgriculture&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -143,47 +147,83 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect With Me
 
 <!-- Blog Post Workflow -->
+ <!--
 <div align="center">
-  <h3>📕 Latest Blog Posts</h3>
-
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This section will be automatically updated by the blog post workflow once you set it up -->
-  <!-- BLOG-POST-LIST:END -->
-  
-  <a href="https://dev.to/aimj" target="_blank">➡️ More blog posts</a>
-</div>
-
-<p align="center">
-  <!-- Twitter commented out as requested -->
-  <!-- <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a> -->
-  <a href="https://linkedin.com/in/dilini98">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <h2>📕 Latest Blog Posts</h2>
   <a href="https://dev.to/aimj">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/Read%20My%20Articles-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=20232A" alt="Dev.to" /> 
   </a>
-  <a href="https://instagram.com/hp_dilini">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
- 
+-->
+<!-- Connect With M --> 
+<div align="center"> 
+  <p>
+    <a href="https://linkedin.com/in/dilini98">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://dev.to/aimj">
+      <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/hp_dilini">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <!--
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/your_twitter_handle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    -->
+  </p>
+</div>
+
+
+
+
+
+<!-- Add some space and a separator -->
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<!--   
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/scroll.gif" width="40" /> Watch My GitHub Contributions Slither
+-->
+
+ <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
 </picture>
+</div>
 
----
+<!--  ---  -->
+ 
+  <div align="center" ">
+  <p style="font-size:18px;">
+    <img src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width="30px" alt="sparkles">
+    <b>Glad you stopped by — hope you found something cool!</b>
+    <img src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width="30px" alt="sparkles">
+  </p>
+ </div>
+  
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&animation=twinkling" width="100%" />
+<!--   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  -->
+</div>
+<div align="center"> 
+   <div style="height: 30px;">&nbsp;</div>
 
-<p align="center">
+
+<!---build with -->
+<p align="center" >
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
 </p>
 
+
+
 <!-- RAINBOW LINE BOTTOM -->
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/assets/Rainbow.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIxcmlxdWJrbXFtcHRtNjZiNWp5OWk5MmJ4cnRrbW53ZGJ5MTdwbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.gif" width="100%" height="20px" style="object-fit: cover;" />
