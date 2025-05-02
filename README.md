@@ -50,6 +50,8 @@
 - 🛠️ Love building clean, intuitive UI with Flutter
 - 📫 How to reach me: **hpdilinibuddhika@gmail.com**
 
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
@@ -108,6 +110,10 @@
 
   </a>
 </div>
+
+<!-- etc here--> 
+
+<!-- etc end -->
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE5YWR1bmZmN2o2eHVrdXBpeWcxeTc1NHNjcmIzbHBzM3R5d21zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTtANKl0beDFQRLDTh/giphy.gif" width="40"> Latest Projects
 <br>
