@@ -3,7 +3,7 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # Runs every day
+    - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch:
 
 jobs:

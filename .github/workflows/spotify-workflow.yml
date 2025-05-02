@@ -1,19 +1,37 @@
-# spotify-workflow.yml (Place in .github/workflows/spotify-workflow.yml)
-name: Spotify Now Playing
+# # spotify-workflow.yml (Place in .github/workflows/spotify-workflow.yml)
+# name: Spotify Now Playing
 
+# on:
+#   schedule:
+#     - cron: "0 */1 * * *" # Runs every hour
+#   workflow_dispatch:
+
+# jobs:
+#   update-spotify:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: puf17640/spotify-box@main
+#         with:
+#           spotify_username: ${{ secrets.SPOTIFY_USERNAME }}
+#           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+#           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+#           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+name: Metrics
 on:
   schedule:
-    - cron: "0 */1 * * *" # Runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
-  update-spotify:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: puf17640/spotify-box@master
+      - uses: lowlighter/metrics@latest
         with:
-          spotify_username: ${{ secrets.SPOTIFY_USERNAME }}
-          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
