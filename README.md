@@ -101,7 +101,8 @@
 <!-- GitHub activity graph -->
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AimJ-dilini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AimJ-dilini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
   </a>
 </div>
 
