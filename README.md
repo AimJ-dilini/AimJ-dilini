@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5ldndlMnNzeTQzaHBvNGw5M2R5NWk2Y2toajl6YzRva2U2d3ZteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
@@ -27,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" />
   <a href="https://github.com/AimJ-dilini?tab=followers">
     <img src="https://img.shields.io/github/followers/AimJ-dilini?label=Followers&style=social" alt="followers" />
   </a>
@@ -46,7 +45,7 @@
 <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" />
 
 - 🚀 Building cool things at [Zaper AI]
-- 🌱 Learning new tech every day — currently diving into [Technology/Framework]
+- 🌱 Learning new tech every day
 - 🧠 Currently exploring how to make apps smarter with AI
 - 🛠️ Love building clean, intuitive UI with Flutter
 - 📫 How to reach me: **hpdilinibuddhika@gmail.com**
@@ -86,14 +85,14 @@
 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimJ-dilini&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&background=0D1117" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AimJ-dilini&theme=tokyonight&background=0D1117" />
   </a>
 </div>
 
@@ -102,18 +101,26 @@
 <!-- GitHub activity graph -->
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AimJ-dilini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE5YWR1bmZmN2o2eHVrdXBpeWcxeTc1NHNjcmIzbHBzM3R5d21zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTtANKl0beDFQRLDTh/giphy.gif" width="40"> Latest Projects
 
 <div align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight&bg_color=0D1117" />
+  <a href="https://github.com/AimJ-dilini/chatgpt_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=chatgpt_app&theme=tokyonight&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight&bg_color=0D1117" />
+  <a href="https://github.com/AimJ-dilini/openai_backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=openai_backend&theme=tokyonight&bg_color=0D1117" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/AimJ-dilini/CoconutAgriculture">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=CoconutAgriculture&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
 
@@ -123,12 +130,12 @@
 
 <!-- Custom visitor counter with animation -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{AimJ-dilini}/count.svg" alt="Visitor Count" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AimJ-dilini&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
   </a>
 </div>
 
@@ -139,23 +146,24 @@
   <h3>📕 Latest Blog Posts</h3>
 
   <!-- BLOG-POST-LIST:START -->
-  <!-- This section will be automatically updated by the blog post workflow -->
+  <!-- This section will be automatically updated by the blog post workflow once you set it up -->
   <!-- BLOG-POST-LIST:END -->
   
-  <a href="https://dev.to/your-username" target="_blank">➡️ More blog posts</a>
+  <a href="https://dev.to/aimj" target="_blank">➡️ More blog posts</a>
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter">
+  <!-- Twitter commented out as requested -->
+  <!-- <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  </a> -->
+  <a href="https://linkedin.com/in/dilini98">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/your-dev-to">
+  <a href="https://dev.to/aimj">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://instagram.com/your-instagram">
+  <a href="https://instagram.com/hp_dilini">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -165,7 +173,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/AimJ-dilini/AimJ-dilini/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
