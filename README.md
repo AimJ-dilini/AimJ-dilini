@@ -80,7 +80,6 @@
 
 [![Spotify](https://novatorem-seven-lime-94.vercel.app/api/spotify)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
 
-
 <div align="center">
   <a href="https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64">
     <img src="https://novatorem-seven-lime-94.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
@@ -89,14 +88,14 @@
 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimJ-dilini&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AimJ-dilini&theme=tokyonight&background=0D1117" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AimJ-dilini&theme=tokyonight&background=0D1117&border=0D1117" />
   </a>
 </div>
 
