@@ -77,7 +77,7 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
 
 <!-- Spotify Now Playing -->
-
+<!-- 
 [![Spotify](https://novatorem-seven-lime-94.vercel.app/api/spotify)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
 
 <div align="center">
@@ -85,7 +85,7 @@
     <img src="https://novatorem-seven-lime-94.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
   </a>
 </div>
-
+-->
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
