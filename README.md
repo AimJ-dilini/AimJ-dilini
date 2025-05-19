@@ -126,13 +126,13 @@
   </a>
 </div> 
 <br>
-<!--
+ 
 <div align="center">
-  <a href="https://github.com/AimJ-dilini/CoconutAgriculture">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=CoconutAgriculture&theme=tokyonight&bg_color=0D1117" />
+  <a href="https://github.com/AimJ-dilini/driving_quiz_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=driving_quiz_app&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div>
--->
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
