@@ -121,7 +121,7 @@
   <a href="https://github.com/AimJ-dilini/chatgpt_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=chatgpt_app&theme=tokyonight&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/AimJ-dilini/openai_backend">
+  <a href="https://github.com/AimJ-dilini/todo_hive_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=todo_hive_app&theme=tokyonight&bg_color=0D1117" />
   </a>
 </div> 
