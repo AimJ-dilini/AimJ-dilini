@@ -227,8 +227,7 @@
 <p align="center" >
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
 </p>
-
-
-
-<!-- RAINBOW LINE BOTTOM -->
+ 
+<!-- RAINBOW LINE BOTTOM
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIxcmlxdWJrbXFtcHRtNjZiNWp5OWk5MmJ4cnRrbW53ZGJ5MTdwbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.gif" width="100%" height="20px" style="object-fit: cover;" />
+ -->
