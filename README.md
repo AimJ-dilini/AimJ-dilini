@@ -35,9 +35,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Repository Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-20-blue?style=for-the-badge" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-21-blue?style=for-the-badge" alt="Total Repositories" />
   <img src="https://img.shields.io/badge/Public%20Repositories-11-green?style=for-the-badge" alt="Public Repositories" />
-  <img src="https://img.shields.io/badge/Private%20Repositories-9-red?style=for-the-badge" alt="Private Repositories" />
+  <img src="https://img.shields.io/badge/Private%20Repositories-10-red?style=for-the-badge" alt="Private Repositories" />
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
