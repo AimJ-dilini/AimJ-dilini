@@ -49,13 +49,9 @@
 - 🧠 Currently exploring how to make apps smarter with AI
 - 🛠️ Love building clean, intuitive UI with Flutter
 - 📫 How to reach me: **hpdilinibuddhika@gmail.com**
-
-<!-- [![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
---> 
+ 
 [![Spotify](https://img.shields.io/badge/🎧_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
-
-
-
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
@@ -81,17 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
-
-<!-- Spotify Now Playing -->
-<!-- 
-[![Spotify](https://novatorem-seven-lime-94.vercel.app/api/spotify)](https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64)
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31taphfpmracdpewiklqmruojk64">
-    <img src="https://novatorem-seven-lime-94.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
-  </a>
-</div>
--->
+ 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
@@ -106,18 +92,13 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub activity graph -->
+ 
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AimJ-dilini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
   </a>
-</div>
-
-<!-- etc here--> 
-
-<!-- etc end -->
+</div> 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE5YWR1bmZmN2o2eHVrdXBpeWcxeTc1NHNjcmIzbHBzM3R5d21zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTtANKl0beDFQRLDTh/giphy.gif" width="40"> Latest Projects
 <br>
@@ -135,14 +116,12 @@
   <a href="https://github.com/AimJ-dilini/driving_quiz_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=driving_quiz_app&theme=tokyonight&bg_color=0D1117" />
   </a>
-</div>
- 
+</div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
-
-<!-- Custom visitor counter with animation -->
+ 
 <div align="center">
   <img src="https://profile-counter.glitch.me/{AimJ-dilini}/count.svg" alt="Visitor Count" />
 </div>
@@ -154,8 +133,7 @@
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect With Me
-
-<!-- Blog Post Workflow -->
+ 
  <!--
 <div align="center">
   <h2>📕 Latest Blog Posts</h2>
@@ -163,8 +141,7 @@
     <img src="https://img.shields.io/badge/Read%20My%20Articles-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=20232A" alt="Dev.to" /> 
   </a>
 </div>
--->
-<!-- Connect With M --> 
+--> 
 <div align="center"> 
   <p>
     <a href="https://linkedin.com/in/dilini98">
@@ -185,21 +162,11 @@
     </a>
     -->
   </p>
-</div>
+</div> 
 
-
-
-
-
-<!-- Add some space and a separator -->
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-
-<!--   
-## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/scroll.gif" width="40" /> Watch My GitHub Contributions Slither
--->
-
+<br/> 
  <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
@@ -207,8 +174,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
 </picture>
 </div>
-
-<!--  ---  -->
  
   <div align="center" ">
   <p style="font-size:18px;">
@@ -220,18 +185,14 @@
   
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&animation=twinkling" width="100%" />
-<!--   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&animation=twinkling" width="100%" /> 
 </div>
 <div align="center"> 
    <div style="height: 30px;">&nbsp;</div>
-
-
-<!---build with -->
+ 
 <p align="center" >
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
-</p>
- 
-<!-- RAINBOW LINE BOTTOM
+</p> 
+<!-- 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanIxcmlxdWJrbXFtcHRtNjZiNWp5OWk5MmJ4cnRrbW53ZGJ5MTdwbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.gif" width="100%" height="20px" style="object-fit: cover;" />
  -->
