@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-21-green?style=for-the-badge&logo=github" alt="Total Repositories" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AimJ-dilini&label=Public%20Repositories&query=$.public_repos&color=blue&style=for-the-badge&logo=github" alt="Public Repositories" /> 
-  <img src="https://img.shields.io/badge/Private%20Repositories-10-red?style=for-the-badge&logo=github" alt="Private Repositories" />  
+  <img src="https://img.shields.io/badge/Private%20Repositories--8-red?style=for-the-badge&logo=github" alt="Private Repositories" />  
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
