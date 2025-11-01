@@ -69,7 +69,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br><br>
    
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->  
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
@@ -92,7 +92,8 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
  
@@ -109,7 +110,8 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
  
 <div align="center">
   <a href="https://github.com/AimJ-dilini">
@@ -136,7 +138,8 @@
   </a>
 </div> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
  
@@ -170,12 +173,15 @@
       <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
     </a>
     &nbsp;&nbsp; 
-     
+      <a href="mailto:hpdilinibuddhika@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
   </p>
 </div> 
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 <br/> 
  <div align="center">
 <picture>
