@@ -26,11 +26,13 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" /> -->
+  
   <a href="https://github.com/AimJ-dilini?tab=followers">
     <img src="https://img.shields.io/github/followers/AimJ-dilini?label=Followers&style=social" alt="followers" />
   </a>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Repository Stats
 
@@ -42,19 +44,33 @@
 
 </div>
 
+<br>
+ 
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJyamRtdzRsYml6ZnhjcXZ0dGNtdnFiNWZmZnE1YmM1NnY4YnE0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23gX3RW6v30G3Rrsbf/giphy.gif" width="30"> Visitor Counter
+
+ 
+<div align="center">
+  <img src="https://count.getloli.com/get/@AimJ-dilini?theme=rule34" alt="Visitor Count" />
+</div>
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" />
+<!-- <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" /> -->
+<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"/> 
 
 - 🚀 Building cool things at [Zaper AI]
 - 🌱 Learning new tech every day
 - 🧠 Currently exploring how to make apps smarter with AI
-- 🛠️ Love building clean, intuitive UI with Flutter
+- 🛠️ Building cross-platform apps with Flutter
 - 📫 How to reach me: **hpdilinibuddhika@gmail.com**
  
 [![Spotify](https://img.shields.io/badge/🎧_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<br><br>
+   
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
@@ -124,10 +140,10 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
  
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/{AimJ-dilini}/count.svg" alt="Visitor Count" />
-</div>
-
+</div>  --> 
+ 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AimJ-dilini&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
@@ -153,16 +169,8 @@
     <a href="https://dev.to/aimj">
       <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/hp_dilini">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <!--
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/your_twitter_handle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    -->
+    &nbsp;&nbsp; 
+     
   </p>
 </div> 
 
