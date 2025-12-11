@@ -66,7 +66,8 @@
  
 [![Spotify](https://img.shields.io/badge/🎧_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say hi, 
+<b>feel free to reach out.</b> 😊</em>
 <br><br>
    
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->  
