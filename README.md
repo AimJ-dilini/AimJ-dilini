@@ -58,7 +58,7 @@
 <!-- <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" /> -->
 <img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"/> 
 
-- 🚀 Building cool things at [Zaper AI]
+- 🚀 Building cool things 
 - 🌱 Learning new tech every day
 - 🧠 Currently exploring how to make apps smarter with AI
 - 🛠️ Building cross-platform apps with Flutter
