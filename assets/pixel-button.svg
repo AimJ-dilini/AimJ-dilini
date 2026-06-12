@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 62" role="img" aria-labelledby="title desc">
+  <title id="title">AIMJWEB pixel button</title>
+  <desc id="desc">Pastel retro web button labeled AIMJWEB.</desc>
+  <rect x="3" y="3" width="170" height="56" fill="#fff8e9" stroke="#765c69" stroke-width="6"/>
+  <rect x="10" y="10" width="156" height="42" fill="#ffd2e0" stroke="#8cdade" stroke-width="4"/>
+  <path d="M22 20l4 9 9 4-9 4-4 9-4-9-9-4 9-4zM154 20l4 9 9 4-9 4-4 9-4-9-9-4 9-4z" fill="#fffdf6"/>
+  <text x="88" y="39" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#b75d80">AIMJWEB</text>
+</svg>

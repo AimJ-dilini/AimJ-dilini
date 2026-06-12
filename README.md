@@ -1,19 +1,15 @@
 <!--
   AIMJWEB // Dilini's Dev Shrine
-  Replace the files referenced from /assets with your own original or licensed
-  anime-inspired artwork. See assets/README.md for recommended dimensions.
+  All local artwork in /assets is original, standalone SVG created for this profile.
 -->
 
-<div align="center">
-  <!-- Replace assets/header.png with a handmade AIMJWEB logo or masthead. -->
-  <img src="assets/header.png" alt="AIMJWEB" width="720" />
-  <h1>AIMJWEB</h1>
-  <p><strong>Dilini's Dev Shrine</strong></p>
-  <p><code>AI Product Builder</code> · <code>Flutter Developer</code> · <code>Soft UI Maker</code></p>
-</div>
+<p align="center">
+  <img src="./assets/aimj-banner.svg" width="100%" alt="AIMJ WEB banner" />
+</p>
 
 <table align="center">
   <tr>
+    <td align="center"><img src="./assets/pixel-button.svg" width="88" alt="AIMJWEB pixel button" /></td>
     <td align="center"><a href="https://github.com/AimJ-dilini/AimJ-dilini#readme">Home</a></td>
     <td align="center"><a href="#profile-card">Profile</a></td>
     <td align="center"><a href="#dev-shrine--project-gallery">Projects</a></td>
@@ -29,18 +25,15 @@
   </a>
 </div>
 
-<!-- Replace assets/banner.gif with a soft pastel animated site banner. -->
 <div align="center">
   <br />
-  <img src="assets/banner.gif" alt="welcome to my little dev shrine" width="820" />
   <h3>welcome to my little dev shrine</h3>
   <sub>best viewed with curiosity, coffee, and cute UI</sub>
 </div>
 
-<!-- Replace assets/lace-divider.png with a lightweight cream/pink divider. -->
 <div align="center">
   <br />
-  <img src="assets/lace-divider.png" alt="pastel lace divider" width="720" />
+  <img src="./assets/lace-divider.svg" alt="pastel lace divider" width="720" />
 </div>
 
 <!--
@@ -86,9 +79,8 @@
     </td>
     <td width="54%" valign="top">
       <h2 align="center" id="profile-card">PROFILE CARD</h2>
-      <!-- Replace assets/chibi-icon.png with your own original chibi/avatar art. -->
       <p align="center">
-        <img src="assets/chibi-icon.png" alt="Dilini profile icon" width="120" />
+        <img src="./assets/chibi-mascot.svg" alt="AIMJWEB robot bunny mascot" width="140" />
       </p>
       <table>
         <tr><td><strong>Name</strong></td><td>Dilini</td></tr>
@@ -157,8 +149,7 @@
       </table>
     </td>
     <td width="23%" valign="top">
-      <!-- Replace assets/sidebar-icon.png with a tiny original pixel icon. -->
-      <p align="center"><img src="assets/sidebar-icon.png" alt="Sidebar icon" width="90" /></p>
+      <p align="center"><img src="./assets/sidebar-icon.svg" alt="Retro web mail icon" width="90" /></p>
       <h3 align="center">STATUS</h3>
       <p>
         <strong>Online:</strong> yes<br />
@@ -197,9 +188,8 @@
   </tr>
 </table>
 
-<!-- Replace assets/divider-pink.gif with a small original pixel divider. -->
 <div align="center">
-  <img src="assets/divider-pink.gif" alt="pink pixel divider" width="720" />
+  <img src="./assets/lace-divider.svg" alt="pink lace divider" width="720" />
 </div>
 
 <h2 align="center">GITHUB STATS TERMINAL</h2>
@@ -229,11 +219,6 @@
   </picture>
 </div>
 
-<!-- Replace assets/footer.gif with a small original pastel footer animation. -->
 <div align="center">
-  <img src="assets/footer.gif" alt="AIMJWEB footer" width="720" />
-  <p>
-    <strong>thank you for visiting AIMJWEB</strong><br />
-    <sub>please come back again soon</sub>
-  </p>
+  <img src="./assets/footer.svg" alt="Thank you for visiting AIMJWEB" width="100%" />
 </div>

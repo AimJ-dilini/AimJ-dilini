@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AIMJWEB banner</title>
+  <desc id="desc">Pastel pink, cream, and aqua retro web shrine banner for Dilini's Dev Shrine.</desc>
+  <defs>
+    <pattern id="gingham" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect width="32" height="32" fill="#fff8e9"/>
+      <rect width="16" height="32" fill="#ffd6e3" opacity=".42"/>
+      <rect width="32" height="16" fill="#bcebed" opacity=".34"/>
+      <rect width="16" height="16" fill="#f5b8cf" opacity=".22"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#b87b91" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#gingham)"/>
+  <rect x="18" y="18" width="1164" height="324" rx="22" fill="none" stroke="#f08eb2" stroke-width="4"/>
+  <rect x="31" y="31" width="1138" height="298" rx="18" fill="#fffdf6" stroke="#8dd8dc" stroke-width="3" stroke-dasharray="8 7"/>
+  <path d="M55 74H1145M55 286H1145" stroke="#f5b4cc" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 18"/>
+  <g fill="#ff86ad" stroke="#fffdf6" stroke-width="3">
+    <path d="M92 93c-27-22-58 18 0 55 58-37 27-77 0-55z"/>
+    <path d="M1108 93c-27-22-58 18 0 55 58-37 27-77 0-55z"/>
+  </g>
+  <g fill="#8fdcdf">
+    <path d="M150 238l8 18 19 8-19 8-8 19-8-19-19-8 19-8z"/>
+    <path d="M1050 238l8 18 19 8-19 8-8 19-8-19-19-8 19-8z"/>
+    <circle cx="212" cy="100" r="7"/><circle cx="988" cy="100" r="7"/>
+  </g>
+  <g fill="#ffb5cf" stroke="#d96f98" stroke-width="3">
+    <path d="M250 85c36-35 76-13 77 23-1 36-41 58-77 23-36 35-76 13-77-23 1-36 41-58 77-23z"/>
+    <circle cx="250" cy="108" r="16" fill="#fff8e9"/>
+    <path d="M950 85c36-35 76-13 77 23-1 36-41 58-77 23-36 35-76 13-77-23 1-36 41-58 77-23z"/>
+    <circle cx="950" cy="108" r="16" fill="#fff8e9"/>
+  </g>
+  <g filter="url(#shadow)" text-anchor="middle" font-family="Verdana, Arial, sans-serif">
+    <text x="600" y="195" font-size="94" font-weight="700" letter-spacing="10" fill="#d96995" stroke="#fff5f8" stroke-width="10" paint-order="stroke">AIMJWEB</text>
+    <text x="600" y="245" font-size="27" font-weight="700" letter-spacing="4" fill="#4faeb5">DILINI'S DEV SHRINE</text>
+  </g>
+  <g fill="#fff8e9" stroke="#e483a6" stroke-width="3">
+    <rect x="420" y="274" width="360" height="38" rx="19"/>
+  </g>
+  <text x="600" y="300" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#87626e">AI PRODUCTS · FLUTTER · SOFT UI</text>
+</svg>
