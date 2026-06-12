@@ -1,30 +1,30 @@
-name: Generate GitHub metrics
+name: DILINI.OS intelligence metrics
 
 on:
-  # A weekly refresh keeps the dashboard current without unnecessary Action usage.
+  # Refresh the intelligence dashboard weekly.
   schedule:
     - cron: "30 0 * * 1"
   # Allow the dashboard to be generated immediately after setup.
   workflow_dispatch:
 
-# Prevent overlapping dashboard generation runs.
+# Prevent overlapping metric renders and competing commits.
 concurrency:
   group: github-metrics
   cancel-in-progress: true
 
-# Metrics commits github-metrics.svg back to this profile repository.
+# Required because Metrics commits github-metrics.svg to the profile repository.
 permissions:
   contents: write
 
 jobs:
   metrics:
-    name: Build metrics dashboard
+    name: Build DILINI.OS intelligence dashboard
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
       # METRICS_TOKEN is an optional classic PAT with public_repo and read:user scopes.
-      # The repository token provides an out-of-box fallback; a PAT enables richer account data.
+      # The repository token is the zero-configuration fallback.
       - name: Generate dashboard
         uses: lowlighter/metrics@v3.34
         with:
@@ -32,18 +32,21 @@ jobs:
           user: AimJ-dilini
           filename: github-metrics.svg
           committer_branch: main
-          committer_message: "chore: refresh GitHub metrics"
+          committer_message: "chore: refresh DILINI.OS intelligence"
           output_condition: data-changed
 
-          # Dark, compact foundation that matches the README visual system.
+          # Dark, static foundation optimized for the DILINI.OS interface.
           template: classic
           config_timezone: Asia/Colombo
           config_display: large
           config_padding: 0, 8 + 11%
           config_animations: no
           config_twemoji: yes
+          config_order: >-
+            base.header, plugin_isocalendar, plugin_languages, plugin_habits,
+            plugin_achievements, plugin_followup, plugin_discussions,
+            plugin_topics, plugin_stars, base.activity, base.community
           base: header, activity, community, metadata
-
           # Achievements.
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -79,3 +82,8 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_archived: no
+
+          # GitHub discussion participation and categories.
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_discussions_categories_limit: 6

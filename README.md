@@ -1,206 +1,182 @@
-<!-- Hero: a focused introduction with one consistent dark-blue visual system. -->
+<!-- DILINI.OS // PROFILE INTERFACE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:1F6FEB&text=HP%20Dilini%20Buddhika&fontColor=F0F6FC&fontSize=42&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Product%20Thinker&descAlignY=58&descSize=16" alt="HP Dilini Buddhika - AI Builder, Flutter Developer, Product Thinker" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:05070D,45:0B1320,100:00C2FF&text=DILINI.OS&fontColor=E6F7FF&fontSize=52&fontAlignY=42&desc=AI%20Product%20Builder%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Japanese%20Learner&descAlignY=66&descSize=16&animation=fadeIn" alt="DILINI.OS - AI Product Builder, Flutter Developer, Japanese Learner" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/assets/Rainbow.gif" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+The+Future" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=25&pause=1000&color=36BCF7FF&center=true&width=435&lines=Thanks+for+visiting!;Explore+my+repositories!;Let's+collaborate!" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</div>
-
-<p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" /> -->
-  
+  <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=SYSTEM+VISITS&color=00C2FF&style=flat-square" alt="Profile views" />
   <a href="https://github.com/AimJ-dilini?tab=followers">
-    <img src="https://img.shields.io/github/followers/AimJ-dilini?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Repository Stats
-
- 
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-34-green?style=for-the-badge&logo=github" alt="Total Repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AimJ-dilini&label=Public%20Repositories&query=$.public_repos&color=blue&style=for-the-badge&logo=github" alt="Public Repositories" /> 
-  <img src="https://img.shields.io/badge/Private%20Repositories-23-red?style=for-the-badge&logo=github" alt="Private Repositories" /> 
-
-</div>
-
-<br>
- 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJyamRtdzRsYml6ZnhjcXZ0dGNtdnFiNWZmZnE1YmM1NnY4YnE0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23gX3RW6v30G3Rrsbf/giphy.gif" width="30"> Visitor Counter
-
- 
-<div align="center">
-  <img src="https://count.getloli.com/get/@AimJ-dilini?theme=rule34" alt="Visitor Count" />
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<!-- <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" /> -->
-<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"/> 
-
-- 🚀 Building cool things 
-- 🌱 Learning new tech every day
-- 🧠 Currently exploring how to make apps smarter with AI
-- 🛠️ Building cross-platform apps with Flutter
-- 📫 How to reach me: **hpdilinibuddhika@gmail.com**
- 
-[![Spotify](https://img.shields.io/badge/🎧_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
- 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say hi, 
-<b>feel free to reach out.</b> 😊</em>
-<br><br>
-   
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->  
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
- 
-<div align="center">
-  <a href="https://github.com/AimJ-dilini">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimJ-dilini&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
+    <img src="https://img.shields.io/github/followers/AimJ-dilini?label=NETWORK+NODES&style=flat-square&color=00C2FF&labelColor=05070D" alt="GitHub followers" />
   </a>
 </div>
 
+<br />
+
+> **D.A.I. // INITIALIZATION**
+>
+> Hello. I am **D.A.I.**, the Dilini Artificial Intelligence. I monitor Dilini's development journey, product experiments, and continuous learning systems. You are viewing the live interface for **DILINI.OS**.
+
+<!-- STATUS:START -->
+<table align="center">
+  <tr>
+    <td><code>DILINI.OS</code></td>
+    <td><img src="https://img.shields.io/badge/STATUS-ONLINE-00C2FF?style=flat-square&labelColor=05070D" alt="Status online" /></td>
+  </tr>
+  <tr>
+    <td><code>LOCATION</code></td>
+    <td><strong>SRI LANKA</strong></td>
+  </tr>
+  <tr>
+    <td><code>BUILDING</code></td>
+    <td><strong>ZAPER AI</strong></td>
+  </tr>
+  <tr>
+    <td><code>LEARNING</code></td>
+    <td><strong>JAPANESE</strong></td>
+  </tr>
+  <tr>
+    <td><code>FOCUS</code></td>
+    <td><strong>FLUTTER + AI</strong></td>
+  </tr>
+  <tr>
+    <td><code>LAST SYNC</code></td>
+    <td><strong>2026-06-12 UTC</strong></td>
+  </tr>
+</table>
+<!-- STATUS:END -->
+
+## `01 // MISSION BOARD`
+
+> **D.A.I. // REPORT:** Missions are tracked by operational state rather than arbitrary percentages.
+
+**COMPLETED MISSIONS**
+
+![Built AI-powered applications](https://img.shields.io/badge/BUILT_AI_APPLICATIONS-COMPLETE-22C55E?style=flat-square&labelColor=05070D)
+![Published Flutter projects](https://img.shields.io/badge/PUBLISHED_FLUTTER_PROJECTS-COMPLETE-22C55E?style=flat-square&labelColor=05070D)
+![Learned Hiragana basics](https://img.shields.io/badge/HIRAGANA_BASICS-COMPLETE-22C55E?style=flat-square&labelColor=05070D)
+![Open source contributions](https://img.shields.io/badge/OPEN_SOURCE_CONTRIBUTIONS-COMPLETE-22C55E?style=flat-square&labelColor=05070D)
+
+**CURRENT MISSIONS**
+
+![Expand Zaper AI](https://img.shields.io/badge/EXPAND_ZAPER_AI-ACTIVE-00C2FF?style=flat-square&labelColor=05070D)
+![Build Japanese Story Reader](https://img.shields.io/badge/JAPANESE_STORY_READER-BUILDING-A855F7?style=flat-square&labelColor=05070D)
+![Improve AI product design](https://img.shields.io/badge/AI_PRODUCT_DESIGN-ITERATING-F59E0B?style=flat-square&labelColor=05070D)
+![Reach GitHub milestones](https://img.shields.io/badge/GITHUB_MILESTONES-TRACKING-64748B?style=flat-square&labelColor=05070D)
+
+**LIVE MISSION TELEMETRY**
+
+![Neural activity workflow](https://img.shields.io/github/actions/workflow/status/AimJ-dilini/AimJ-dilini/snake.yml?branch=main&style=flat-square&label=NEURAL%20ACTIVITY&labelColor=05070D&color=00C2FF)
+![Intelligence metrics workflow](https://img.shields.io/github/actions/workflow/status/AimJ-dilini/AimJ-dilini/metrics.yml?branch=main&style=flat-square&label=INTELLIGENCE%20SYNC&labelColor=05070D&color=A855F7)
+![System status workflow](https://img.shields.io/github/actions/workflow/status/AimJ-dilini/AimJ-dilini/project-status.yml?branch=main&style=flat-square&label=SYSTEM%20STATUS&labelColor=05070D&color=22C55E)
+
+## `02 // PROJECT COMMAND CENTER`
+
+> **D.A.I. // REPORT:** Four product signals are currently registered. Private systems route to filtered repository views until public deployment.
+
+| PROJECT SIGNAL                                        |                                                STATE                                                | COMMAND                                                                             |
+| :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------- |
+| **Zaper AI** · intelligent workflow tools             |      ![Active](https://img.shields.io/badge/ACTIVE-00C2FF?style=flat-square&labelColor=05070D)      | [`open --zaper-ai`](https://github.com/AimJ-dilini?tab=repositories&q=zaper)        |
+| **Japanese Story Reader** · language-learning product |    ![Building](https://img.shields.io/badge/BUILDING-A855F7?style=flat-square&labelColor=05070D)    | [`open --story-reader`](https://github.com/AimJ-dilini?tab=repositories&q=japanese) |
+| **ChatGPT App** · AI mobile interface                 | ![Maintenance](https://img.shields.io/badge/MAINTENANCE-F59E0B?style=flat-square&labelColor=05070D) | [`open --chatgpt-app`](https://github.com/AimJ-dilini/chatgpt_app)                  |
+| **Todo Hive** · local-first task system               |      ![Stable](https://img.shields.io/badge/STABLE-22C55E?style=flat-square&labelColor=05070D)      | [`open --todo-hive`](https://github.com/AimJ-dilini/todo_hive_app)                  |
+
+## `03 // JAPANESE LEARNING TERMINAL`
+
+> **D.A.I. // LANGUAGE MODULE:** Foundational kana recognition is online. Daily repetition protocol is active.
+
+```text
+┌─ DILINI.OS / language.ja
+│
+├─ CURRENT STUDY ........ Hiragana
+├─ RECENTLY LEARNED ..... あ  い  う  え  お  か  き  く  け  こ
+└─ ACTIVE VOCABULARY .... ねこ  いぬ  こころ  いえ  こえ
+
+$ dai practice --daily
+> repetition cycle initialized
+```
+
+## `04 // TECH ARSENAL`
+
+> **D.A.I. // LOADOUT:** Only tools connected to active product-building systems are displayed.
+
 <div align="center">
-  <a href="https://github.com/AimJ-dilini">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AimJ-dilini&theme=tokyonight&background=0D1117&border=0D1117" />
-  </a>
+  <img src="https://img.shields.io/badge/Flutter-05070D?style=for-the-badge&logo=flutter&logoColor=00C2FF" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-05070D?style=for-the-badge&logo=dart&logoColor=00C2FF" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=00C2FF" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=00C2FF" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=00C2FF" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/React-05070D?style=for-the-badge&logo=react&logoColor=00C2FF" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-05070D?style=for-the-badge&logo=nodedotjs&logoColor=00C2FF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-05070D?style=for-the-badge&logo=docker&logoColor=00C2FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-05070D?style=for-the-badge&logo=githubactions&logoColor=00C2FF" alt="GitHub Actions" />
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
- 
+## `05 // INTELLIGENCE CENTER`
+
+> **D.A.I. // ANALYTICS:** Public development signals have been normalized into a single dark-mode interface.
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=58A6FF" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=58A6FF" alt="Firebase" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Git" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AimJ-dilini&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=00C2FF&text_color=C9D1D9&icon_color=A855F7" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AimJ-dilini&hide_border=true&background=05070D&ring=00C2FF&fire=A855F7&currStreakLabel=00C2FF&sideLabels=C9D1D9&dates=64748B&currStreakNum=E6F7FF&sideNums=E6F7FF" alt="GitHub streak" />
 </div>
 
-<!-- Featured work: only the strongest currently public repositories. -->
-
-## Featured Projects
-
 <div align="center">
-  <a href="https://github.com/AimJ-dilini/chatgpt_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=chatgpt_app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="ChatGPT App" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AimJ-dilini&bg_color=05070D&color=94A3B8&line=00C2FF&point=A855F7&area=true&area_color=0B4F6C&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+<details>
+  <summary><strong>D.A.I. // OPEN EXTENDED METRICS</strong></summary>
   <br />
-  <a href="https://github.com/AimJ-dilini/flutter_rpg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=flutter_rpg&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Flutter RPG" />
-  </a>
-  <br />
-  <a href="https://github.com/AimJ-dilini/todo_hive_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=todo_hive_app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Todo Hive App" />
-  </a>
-</div>
+  <div align="center">
+    <img width="100%" src="./github-metrics.svg" alt="DILINI.OS extended GitHub metrics" />
+  </div>
+</details>
 
-<!-- Core GitHub signals: stats, streak, and activity graph retained from the previous profile. -->
+## `06 // RECENT SYSTEM LOGS`
 
-## GitHub Overview
+> **D.A.I. // LIVE FEED:** No critical exceptions detected.
 
-<div align="center">
-  <a href="https://github.com/AimJ-dilini/driving_quiz_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=driving_quiz_app&theme=tokyonight&bg_color=0D1117" />
-  </a>
-</div> 
+```log
+[INFO] product.ai       Working on AI-powered products
+[INFO] language.ja      Learning Japanese daily
+[INFO] mobile.flutter   Building cross-platform applications
+[INFO] workflows.ai     Exploring new AI workflows
+[READY] dilini.os       Next product iteration queued
+```
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
+## `07 // NEURAL NETWORK ACTIVITY`
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
- 
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/{AimJ-dilini}/count.svg" alt="Visitor Count" />
-</div>  --> 
- 
-<div align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=AimJ-dilini&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0D1117&interchange=false&bar_color=58A6FF&bar_color_cover=false" alt="Spotify now playing" />
-  </a>
-</div>
-
-<!-- Daily quote: dynamically refreshed by the quote card service. -->
-
-## Daily Developer Quote
+> **D.A.I. // CONTRIBUTION MAP:** Each node below represents a contribution signal moving through the DILINI.OS network.
 
 <div align="center">
-  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Daily developer quote" />
-</div>
---> 
-<div align="center"> 
-  <p>
-    <a href="https://linkedin.com/in/dilini98">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://dev.to/aimj">
-      <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-    </a>
-    &nbsp;&nbsp; 
-      <a href="mailto:hpdilinibuddhika@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
-</div> 
-
-<br/>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
-<br/> 
- <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
+    <img width="100%" alt="DILINI.OS neural network contribution activity" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
-<!-- Footer: a restrained close that matches the hero without extra animation. -->
+## `08 // COMMUNICATION CHANNELS`
+
+> **D.A.I. // NETWORK:** Authorized communication endpoints are ready.
+
+```text
+$ connect --linkedin   linkedin.com/in/dilini98
+$ connect --instagram  instagram.com/hp_dilini
+$ connect --devto      dev.to/aimj
+$ connect --email      hpdilinibuddhika@gmail.com
+```
+
 <div align="center">
-  <sub>Building useful products at the intersection of AI, mobile, and thoughtful design.</sub>
+  <a href="https://www.linkedin.com/in/dilini98"><img src="https://img.shields.io/badge/connect_--linkedin-05070D?style=flat-square&logo=linkedin&logoColor=00C2FF" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.instagram.com/hp_dilini"><img src="https://img.shields.io/badge/connect_--instagram-05070D?style=flat-square&logo=instagram&logoColor=A855F7" alt="Connect on Instagram" /></a>
+  <a href="https://dev.to/aimj"><img src="https://img.shields.io/badge/connect_--devto-05070D?style=flat-square&logo=devdotto&logoColor=00C2FF" alt="Read on Dev.to" /></a>
+  <a href="mailto:hpdilinibuddhika@gmail.com"><img src="https://img.shields.io/badge/connect_--email-05070D?style=flat-square&logo=gmail&logoColor=A855F7" alt="Send email" /></a>
+</div>
+
+<div align="center">
+  <strong>SYSTEM MESSAGE:</strong><br />
+  Thank you for visiting DILINI.OS.<br />
+  Session terminated successfully.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C2FF,50:0B1320,100:05070D&text=DILINI.OS%20%2F%2F%20SESSION%20TERMINATED&fontColor=E6F7FF&fontSize=15&fontAlignY=70&animation=fadeIn" alt="DILINI.OS session terminated" />
 </div>
