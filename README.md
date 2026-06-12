@@ -4,38 +4,112 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/AimJ-dilini">
-    <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/dilini98">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hpdilinibuddhika@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" />
-  </a>
-  <a href="https://dev.to/aimj">
-    <img src="https://img.shields.io/badge/Dev.to-0D1117?style=flat-square&logo=devdotto&logoColor=58A6FF" alt="Dev.to" />
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/assets/Rainbow.gif" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+The+Future" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=25&pause=1000&color=36BCF7FF&center=true&width=435&lines=Thanks+for+visiting!;Explore+my+repositories!;Let's+collaborate!" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Introduction: concise positioning around the work that matters most. -->
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
-## About
+<p align="center">
+  <!-- <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile%20views&color=00C5FF&style=flat" alt="profile-views" /> -->
+  
+  <a href="https://github.com/AimJ-dilini?tab=followers">
+    <img src="https://img.shields.io/github/followers/AimJ-dilini?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
-I build practical AI products and polished cross-platform experiences with Flutter. My focus is turning ambitious ideas into useful, intuitive software through thoughtful product decisions, clean interfaces, and reliable engineering.
 
-<!-- Current work: active product directions, intentionally kept short. -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Repository Stats
 
-## Currently Building
+ 
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-34-green?style=for-the-badge&logo=github" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AimJ-dilini&label=Public%20Repositories&query=$.public_repos&color=blue&style=for-the-badge&logo=github" alt="Public Repositories" /> 
+  <img src="https://img.shields.io/badge/Private%20Repositories-23-red?style=for-the-badge&logo=github" alt="Private Repositories" /> 
 
-- **Zaper AI** - intelligent tools that make everyday workflows faster and simpler.
-- **Japanese Story Reader** - an accessible reading experience for learning Japanese through stories.
-- **AI-powered Flutter applications** - mobile products that combine useful AI with native-quality UX.
+</div>
 
-<!-- Stack: compact badges use the same dark background and blue accent. -->
+<br>
+ 
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJyamRtdzRsYml6ZnhjcXZ0dGNtdnFiNWZmZnE1YmM1NnY4YnE0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23gX3RW6v30G3Rrsbf/giphy.gif" width="30"> Visitor Counter
 
-## Tech Stack
+ 
+<div align="center">
+  <img src="https://count.getloli.com/get/@AimJ-dilini?theme=rule34" alt="Visitor Count" />
+</div>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+<!-- <img align="right" height="250" width="350" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvajZ1dDYwNmlna3B1a2Y5M3V0aGF3NDc3bmsxc2JucDBxeDVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" /> -->
+<img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"/> 
+
+- 🚀 Building cool things 
+- 🌱 Learning new tech every day
+- 🧠 Currently exploring how to make apps smarter with AI
+- 🛠️ Building cross-platform apps with Flutter
+- 📫 How to reach me: **hpdilinibuddhika@gmail.com**
+ 
+[![Spotify](https://img.shields.io/badge/🎧_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say hi, 
+<b>feel free to reach out.</b> 😊</em>
+<br><br>
+   
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>  -->  
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Stats
+ 
+<div align="center">
+  <a href="https://github.com/AimJ-dilini">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AimJ-dilini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimJ-dilini&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AimJ-dilini">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AimJ-dilini&theme=tokyonight&background=0D1117&border=0D1117" />
+  </a>
+</div>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
+ 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=58A6FF" alt="Dart" />
@@ -70,36 +144,20 @@ I build practical AI products and polished cross-platform experiences with Flutt
 ## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AimJ-dilini&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=AimJ-dilini&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-</div>
+  <a href="https://github.com/AimJ-dilini/driving_quiz_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AimJ-dilini&repo=driving_quiz_app&theme=tokyonight&bg_color=0D1117" />
+  </a>
+</div> 
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AimJ-dilini&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true" alt="GitHub activity graph" />
-</div>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
 
-<!-- Metrics: generated weekly by .github/workflows/metrics.yml and collapsed to keep the profile concise. -->
-<details>
-  <summary><strong>GitHub Metrics Dashboard</strong></summary>
-  <br />
-  <div align="center">
-    <img width="100%" src="./github-metrics.svg" alt="GitHub metrics dashboard" />
-  </div>
-</details>
-
-<!-- 3D calendar: generated daily by .github/workflows/profile-3d.yml. -->
-<details>
-  <summary><strong>3D Contribution Calendar</strong></summary>
-  <br />
-  <div align="center">
-    <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
-  </div>
-</details>
-
-<!-- Spotify: authorize once at https://spotify-github-profile.kittinanx.com/api/login if the card is not active. -->
-
-## Now Playing
-
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJhZDlreGJwMHRkdXM0ZW83NDR3ZnVzNzJ2dTVuN2cwNzRmOGY1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YFrs8bkQXOQM5LXaqm/giphy.gif" width="40"> Trophy Stats
+ 
+<!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/{AimJ-dilini}/count.svg" alt="Visitor Count" />
+</div>  --> 
+ 
 <div align="center">
   <a href="https://open.spotify.com/">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=AimJ-dilini&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0D1117&interchange=false&bar_color=58A6FF&bar_color_cover=false" alt="Spotify now playing" />
@@ -113,17 +171,33 @@ I build practical AI products and polished cross-platform experiences with Flutt
 <div align="center">
   <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Daily developer quote" />
 </div>
+--> 
+<div align="center"> 
+  <p>
+    <a href="https://linkedin.com/in/dilini98">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://dev.to/aimj">
+      <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+    &nbsp;&nbsp; 
+      <a href="mailto:hpdilinibuddhika@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div> 
 
-<!-- Snake: generated daily and published to the output branch by .github/workflows/snake.yml. -->
-
-## Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
-  </picture>
+<br/>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(0,197,255,0) 0%, rgba(0,197,255,1) 50%, rgba(0,197,255,0) 100%);">
+<br/> 
+ <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
+</picture>
 </div>
 
 <!-- Footer: a restrained close that matches the hero without extra animation. -->
