@@ -1,0 +1,81 @@
+name: Generate GitHub metrics
+
+on:
+  # A weekly refresh keeps the dashboard current without unnecessary Action usage.
+  schedule:
+    - cron: "30 0 * * 1"
+  # Allow the dashboard to be generated immediately after setup.
+  workflow_dispatch:
+
+# Prevent overlapping dashboard generation runs.
+concurrency:
+  group: github-metrics
+  cancel-in-progress: true
+
+# Metrics commits github-metrics.svg back to this profile repository.
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    name: Build metrics dashboard
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # METRICS_TOKEN is an optional classic PAT with public_repo and read:user scopes.
+      # The repository token provides an out-of-box fallback; a PAT enables richer account data.
+      - name: Generate dashboard
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: AimJ-dilini
+          filename: github-metrics.svg
+          committer_branch: main
+          committer_message: "chore: refresh GitHub metrics"
+          output_condition: data-changed
+
+          # Dark, compact foundation that matches the README visual system.
+          template: classic
+          config_timezone: Asia/Colombo
+          config_display: large
+          config_padding: 0, 8 + 11%
+          config_animations: no
+          config_twemoji: yes
+          base: header, activity, community, metadata
+
+          # Achievements.
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_achievements_limit: 6
+
+          # Coding habits and recent activity.
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+
+          # Language breakdown.
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 2%
+
+          # Recently starred repositories and starred topics.
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 12
+
+          # Full-year isometric contribution calendar.
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Issue and pull-request follow-up health.
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_archived: no
