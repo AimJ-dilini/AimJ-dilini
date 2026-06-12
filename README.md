@@ -9,7 +9,7 @@
   <img src="assets/header.png" alt="AIMJWEB" width="720" />
   <h1>AIMJWEB</h1>
   <p><strong>Dilini's Dev Shrine</strong></p>
-  <p><code>AI Product Builder</code> · <code>Flutter Developer</code> · <code>Japanese Learner</code></p>
+  <p><code>AI Product Builder</code> · <code>Flutter Developer</code> · <code>Soft UI Maker</code></p>
 </div>
 
 <table align="center">
@@ -17,7 +17,7 @@
     <td align="center"><a href="https://github.com/AimJ-dilini/AimJ-dilini#readme">Home</a></td>
     <td align="center"><a href="#profile-card">Profile</a></td>
     <td align="center"><a href="#dev-shrine--project-gallery">Projects</a></td>
-    <td align="center"><a href="#japanese-learning-corner">Study Log</a></td>
+    <td align="center"><a href="#build-room">Build Room</a></td>
     <td align="center"><a href="#guestbook">Guestbook</a></td>
   </tr>
 </table>
@@ -57,10 +57,10 @@
         <a href="https://github.com/AimJ-dilini?tab=repositories">☆ Repositories</a><br />
         <a href="#dev-shrine--project-gallery">♡ Projects</a><br />
         <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">└ Zaper AI</a><br />
-        <a href="https://github.com/AimJ-dilini?tab=repositories&q=japanese">└ Japanese Story Reader</a><br />
+        <a href="https://github.com/AimJ-dilini/flutter_rpg">└ Flutter RPG</a><br />
         <a href="https://github.com/AimJ-dilini/chatgpt_app">└ ChatGPT App</a><br />
         <a href="https://github.com/AimJ-dilini/todo_hive_app">└ Todo Hive App</a><br />
-        <a href="#japanese-learning-corner">✿ Study Log</a><br />
+        <a href="#build-room">✿ Build Room</a><br />
         <a href="#guestbook">✉ Message Me</a>
       </p>
       <hr />
@@ -74,7 +74,7 @@
       <p>
         <code>06.12.26</code><br />redesigning my GitHub shrine<br /><br />
         <code>06.10.26</code><br />building AI-powered Flutter apps<br /><br />
-        <code>06.07.26</code><br />studying Japanese kana<br /><br />
+        <code>06.07.26</code><br />tuning soft UI components<br /><br />
         <code>06.01.26</code><br />polishing product UI
       </p>
       <h3 align="center">VISITOR LOG</h3>
@@ -95,7 +95,7 @@
         <tr><td><strong>Role</strong></td><td>AI Product Builder / Flutter Developer</td></tr>
         <tr><td><strong>Location</strong></td><td>Sri Lanka</td></tr>
         <tr><td><strong>Building</strong></td><td>Zaper AI</td></tr>
-        <tr><td><strong>Learning</strong></td><td>Japanese</td></tr>
+        <tr><td><strong>Design direction</strong></td><td>Soft, playful product systems</td></tr>
         <tr><td><strong>Favorite work</strong></td><td>Clean UI, AI apps, product experiences</td></tr>
         <tr><td><strong>Email</strong></td><td><a href="mailto:hpdilinibuddhika@gmail.com">hpdilinibuddhika@gmail.com</a></td></tr>
       </table>
@@ -110,7 +110,7 @@
           <td><img src="https://img.shields.io/badge/active-ff9fbd?style=flat-square&labelColor=fff7e8" alt="Active" /></td>
         </tr>
         <tr>
-          <td><strong><a href="https://github.com/AimJ-dilini?tab=repositories&q=japanese">Japanese Story Reader</a></strong><br /><sub>A language-learning app for reading Japanese stories.</sub></td>
+          <td><strong><a href="https://github.com/AimJ-dilini/flutter_rpg">Flutter RPG</a></strong><br /><sub>A playful Flutter interface for building RPG characters.</sub></td>
           <td><img src="https://img.shields.io/badge/building-9de4e4?style=flat-square&labelColor=fff7e8" alt="Building" /></td>
         </tr>
         <tr>
@@ -122,10 +122,39 @@
           <td><img src="https://img.shields.io/badge/stable-bce5c1?style=flat-square&labelColor=fff7e8" alt="Stable" /></td>
         </tr>
       </table>
-      <h2 align="center" id="japanese-learning-corner">JAPANESE LEARNING CORNER</h2>
-      <p align="center"><strong>currently practicing:</strong> hiragana + everyday words</p>
-      <p align="center"><code>あ い う え お</code> · <code>か き く け こ</code></p>
-      <p align="center"><code>ねこ</code> · <code>いぬ</code> · <code>こころ</code> · <code>いえ</code> · <code>こえ</code></p>
+      <h2 align="center" id="build-room">BUILD ROOM</h2>
+      <p align="center"><em>a small workspace for ideas currently becoming products</em></p>
+      <table>
+        <tr>
+          <td valign="top"><strong>Currently Building</strong></td>
+          <td>
+            Zaper AI<br />
+            AI-powered Flutter interfaces<br />
+            Clean mobile product experiences<br />
+            Personal GitHub profile shrine
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><strong>Current Focus</strong></td>
+          <td>
+            Flutter UI<br />
+            AI features<br />
+            Product polish<br />
+            Smooth user experiences<br />
+            Cute but professional design systems
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><strong>UI Mood</strong></td>
+          <td>
+            <img src="https://img.shields.io/badge/soft-ffcedd?style=flat-square&labelColor=fff7e8" alt="Soft" />
+            <img src="https://img.shields.io/badge/clean-bdeaea?style=flat-square&labelColor=fff7e8" alt="Clean" />
+            <img src="https://img.shields.io/badge/pastel-ffd5e5?style=flat-square&labelColor=fff7e8" alt="Pastel" />
+            <img src="https://img.shields.io/badge/playful-ffd5a8?style=flat-square&labelColor=fff7e8" alt="Playful" />
+            <img src="https://img.shields.io/badge/polished-bce5c1?style=flat-square&labelColor=fff7e8" alt="Polished" />
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="23%" valign="top">
       <!-- Replace assets/sidebar-icon.png with a tiny original pixel icon. -->
@@ -136,7 +165,7 @@
         <strong>Mood:</strong> building mode<br />
         <strong>Focus:</strong> Flutter + AI<br />
         <strong>Current Quest:</strong> Zaper AI<br />
-        <strong>Side Quest:</strong> Japanese learning<br />
+        <strong>Side Quest:</strong> profile shrine polish<br />
         <strong>UI Energy:</strong> soft, clean, cute
       </p>
       <p align="center">
