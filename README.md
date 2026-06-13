@@ -85,35 +85,30 @@ Hi, Im Dilini. I build clean mobile experiences with Flutter and explore how AI 
 </p>
 <h2 align="center" id="project-gallery">DEV SHRINE / PROJECT GALLERY</h2>
 <p align="center">
-<sub>selected work framed like printed poster panels</sub>
+<sub>selected work / tiny archive of things I build</sub>
 </p>
-<p align="center">
-<a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">
-<img src="./assets/project-panel.svg" alt="Zaper AI project panel" width="250" />
-</a><br />
-<strong>Zaper AI</strong> <img src="https://img.shields.io/badge/active-b78d7e?style=flat-square&labelColor=fff8ef" alt="active" /><br />
-<sub>AI product experiments and smart app experiences</sub>
+<p>
+<strong>1. <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">Zaper AI</a></strong>
+<img src="https://img.shields.io/badge/active-b78d7e?style=flat-square&labelColor=fff8ef" alt="active" /><br />
+<sub>AI product experiments and smart app experiences. link: <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">view repository</a></sub>
 </p>
-<p align="center">
-<a href="https://github.com/AimJ-dilini/flutter_rpg">
-<img src="./assets/project-panel.svg" alt="Flutter RPG project panel" width="250" />
-</a><br />
-<strong>Flutter RPG</strong> <img src="https://img.shields.io/badge/building-c9b29a?style=flat-square&labelColor=fff8ef" alt="building" /><br />
-<sub>A Flutter interface for building RPG characters</sub>
+<hr />
+<p>
+<strong>2. <a href="https://github.com/AimJ-dilini/flutter_rpg">Flutter RPG</a></strong>
+<img src="https://img.shields.io/badge/building-c9b29a?style=flat-square&labelColor=fff8ef" alt="building" /><br />
+<sub>A Flutter interface for building RPG characters. link: <a href="https://github.com/AimJ-dilini/flutter_rpg">view repository</a></sub>
 </p>
-<p align="center">
-<a href="https://github.com/AimJ-dilini/chatgpt_app">
-<img src="./assets/project-panel.svg" alt="ChatGPT App project panel" width="250" />
-</a><br />
-<strong>ChatGPT App</strong> <img src="https://img.shields.io/badge/updating-ae9a86?style=flat-square&labelColor=fff8ef" alt="updating" /><br />
-<sub>A mobile exploration of conversational AI</sub>
+<hr />
+<p>
+<strong>3. <a href="https://github.com/AimJ-dilini/chatgpt_app">ChatGPT App</a></strong>
+<img src="https://img.shields.io/badge/updating-ae9a86?style=flat-square&labelColor=fff8ef" alt="updating" /><br />
+<sub>A mobile exploration of conversational AI. link: <a href="https://github.com/AimJ-dilini/chatgpt_app">view repository</a></sub>
 </p>
-<p align="center">
-<a href="https://github.com/AimJ-dilini/todo_hive_app">
-<img src="./assets/project-panel.svg" alt="Todo Hive App project panel" width="250" />
-</a><br />
-<strong>Todo Hive App</strong> <img src="https://img.shields.io/badge/stable-8f9d8a?style=flat-square&labelColor=fff8ef" alt="stable" /><br />
-<sub>A clean local-first productivity app</sub>
+<hr />
+<p>
+<strong>4. <a href="https://github.com/AimJ-dilini/todo_hive_app">Todo Hive App</a></strong>
+<img src="https://img.shields.io/badge/stable-8f9d8a?style=flat-square&labelColor=fff8ef" alt="stable" /><br />
+<sub>A clean local-first productivity app. link: <a href="https://github.com/AimJ-dilini/todo_hive_app">view repository</a></sub>
 </p>
 <h2 align="center" id="build-room">BUILD ROOM</h2>
 <p>
