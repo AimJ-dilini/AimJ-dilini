@@ -1,10 +1,10 @@
 <!--
-  AIMJWEB / Dilini's Dev Shrine
+  Dilini's Dev Shrine
   Original local SVG artwork lives in /assets.
 -->
 
 <p align="center">
-  <img src="./assets/aimj-banner.svg" width="100%" alt="AIMJ WEB banner" />
+  <img src="./assets/aimj-banner.svg" width="100%" alt="Dilini's Dev Shrine banner" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td width="22%" valign="top">
+    <td width="24%" valign="top">
       <p align="center"><img src="./assets/sidebar-icon.svg" alt="" width="26" /></p>
       <h3 align="center">INDEX</h3>
       <p>
@@ -57,91 +57,74 @@
       <hr />
       <h3 align="center">STATUS</h3>
       <p>
-        <strong>online</strong> / yes<br />
-        <strong>location</strong> / Sri Lanka<br />
-        <strong>focus</strong> / Flutter + AI<br />
-        <strong>building</strong> / Zaper AI<br />
-        <strong>mood</strong> / quiet progress
+        online: yes<br />
+        location: Sri Lanka<br />
+        focus: Flutter + AI<br />
+        building: Zaper AI<br />
+        mood: quiet progress
       </p>
     </td>
-    <td width="56%" valign="top">
+
+    <td width="52%" valign="top">
       <h2 align="center" id="about">ABOUT THE WEBMASTER</h2>
-      <table>
-        <tr>
-          <td width="38%" align="center" valign="top">
-            <img src="./assets/profile-frame.svg" alt="Empty pastel profile image frame" width="180" />
-          </td>
-          <td valign="top">
-            <p>
-              <strong>Dilini</strong><br />
-              AI Product Builder / Flutter Developer
-            </p>
-            <p>
-              I build thoughtful mobile products, experiment with AI, and care
-              about interfaces that feel clear, useful, and quietly memorable.
-            </p>
-            <p>
-              <code>Flutter</code> <code>Dart</code> <code>AI products</code><br />
-              <code>Product UI</code> <code>Web</code>
-            </p>
-          </td>
-        </tr>
-      </table>
+      <p align="center">
+        <img src="./assets/profile-frame.svg" alt="Empty pastel profile image frame" width="180" />
+      </p>
+      <p align="center">
+        <strong>Dilini</strong><br />
+        AI Product Builder / Flutter Developer
+      </p>
+      <p align="center">
+        I build thoughtful mobile products, experiment with AI, and care about
+        interfaces that feel clear, useful, and quietly memorable.
+      </p>
+      <p align="center">
+        Flutter &nbsp;&middot;&nbsp; Dart &nbsp;&middot;&nbsp; AI products<br />
+        Product UI &nbsp;&middot;&nbsp; Web
+      </p>
 
       <h2 align="center" id="project-gallery">PROJECT GALLERY</h2>
-      <p align="center"><sub>selected work / open each frame to visit the repository</sub></p>
-      <table>
-        <tr>
-          <td width="50%" align="center" valign="top">
-            <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">
-              <img src="./assets/gallery-frame.svg" alt="Zaper AI gallery frame" width="210" />
-            </a><br />
-            <strong>Zaper AI</strong><br />
-            <sub>AI product experiments and smart app experiences</sub>
-          </td>
-          <td width="50%" align="center" valign="top">
-            <a href="https://github.com/AimJ-dilini/flutter_rpg">
-              <img src="./assets/gallery-frame.svg" alt="Flutter RPG gallery frame" width="210" />
-            </a><br />
-            <strong>Flutter RPG</strong><br />
-            <sub>A Flutter interface for building RPG characters</sub>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" align="center" valign="top">
-            <a href="https://github.com/AimJ-dilini/chatgpt_app">
-              <img src="./assets/gallery-frame.svg" alt="ChatGPT app gallery frame" width="210" />
-            </a><br />
-            <strong>ChatGPT App</strong><br />
-            <sub>A mobile exploration of conversational AI</sub>
-          </td>
-          <td width="50%" align="center" valign="top">
-            <a href="https://github.com/AimJ-dilini/todo_hive_app">
-              <img src="./assets/gallery-frame.svg" alt="Todo Hive app gallery frame" width="210" />
-            </a><br />
-            <strong>Todo Hive App</strong><br />
-            <sub>A clean local-first productivity app</sub>
-          </td>
-        </tr>
-      </table>
+      <p align="center">
+        <sub>selected work / open each frame to visit the repository</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">
+          <img src="./assets/gallery-frame.svg" alt="Zaper AI gallery frame" width="210" />
+        </a><br />
+        <strong>Zaper AI</strong><br />
+        <sub>AI product experiments and smart app experiences</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AimJ-dilini/flutter_rpg">
+          <img src="./assets/gallery-frame.svg" alt="Flutter RPG gallery frame" width="210" />
+        </a><br />
+        <strong>Flutter RPG</strong><br />
+        <sub>A Flutter interface for building RPG characters</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AimJ-dilini/chatgpt_app">
+          <img src="./assets/gallery-frame.svg" alt="ChatGPT app gallery frame" width="210" />
+        </a><br />
+        <strong>ChatGPT App</strong><br />
+        <sub>A mobile exploration of conversational AI</sub>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AimJ-dilini/todo_hive_app">
+          <img src="./assets/gallery-frame.svg" alt="Todo Hive app gallery frame" width="210" />
+        </a><br />
+        <strong>Todo Hive App</strong><br />
+        <sub>A clean local-first productivity app</sub>
+      </p>
 
       <h2 align="center" id="build-notes">BUILD NOTES</h2>
-      <table>
-        <tr>
-          <td valign="top"><strong>Currently</strong></td>
-          <td>Zaper AI, AI-powered Flutter interfaces, and polished mobile product experiences.</td>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Interested in</strong></td>
-          <td>Useful AI features, design systems, calm UI, and products with a strong point of view.</td>
-        </tr>
-        <tr>
-          <td valign="top"><strong>Working style</strong></td>
-          <td>Prototype, test, simplify, and keep refining the details.</td>
-        </tr>
-      </table>
+      <ul>
+        <li>Currently: Zaper AI, AI-powered Flutter interfaces, and polished mobile product experiences.</li>
+        <li>Interested in: useful AI features, design systems, calm UI, and products with a strong point of view.</li>
+        <li>Working style: prototype, test, simplify, and keep refining the details.</li>
+      </ul>
     </td>
-    <td width="22%" valign="top">
+
+    <td width="24%" valign="top">
       <p align="center"><img src="./assets/sidebar-icon.svg" alt="" width="26" /></p>
       <h3 align="center">DEV SHELF</h3>
       <p align="center">
@@ -159,7 +142,7 @@
       <h3 align="center">UPDATE LOG</h3>
       <p>
         <code>06.13.26</code><br />
-        reopened AIMJWEB with a softer shrine layout
+        reopened the shrine with a softer layout
       </p>
       <p>
         <code>06.10.26</code><br />
