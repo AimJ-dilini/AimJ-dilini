@@ -1,6 +1,6 @@
-# AIMJWEB Original Assets
+# Dilini Shrine Assets
 
-These standalone SVG files were created specifically for the AIMJWEB GitHub
+These standalone SVG files were created specifically for the Dilini GitHub
 profile shrine. They use only embedded vector shapes, patterns, and system-safe
 font fallbacks.
 

@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="#about">about</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
   <a href="#project-gallery">project gallery</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
   <a href="#build-notes">build notes</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
   <a href="#archive">archive</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
   <a href="#guestbook">guestbook</a>
 </p>
 
