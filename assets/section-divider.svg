@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 80" role="img" aria-labelledby="title desc">
+<title id="title">Vintage section divider</title>
+<desc id="desc">A thin retro divider with panel accents.</desc>
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+<circle cx="4" cy="4" r="1.2" fill="#8b695e" opacity=".25"/>
+<circle cx="15" cy="14" r=".9" fill="#8b695e" opacity=".18"/>
+</pattern>
+</defs>
+<rect width="1400" height="80" fill="#fff8ef"/>
+<rect x="30" y="16" width="1340" height="48" rx="24" fill="url(#dots)" opacity=".28"/>
+<path d="M34 40H1366" stroke="#8a695e" stroke-width="2"/>
+<path d="M34 30H1366" stroke="#c7aa99" stroke-width="1.2" stroke-dasharray="2 8"/>
+<path d="M34 50H1366" stroke="#c7aa99" stroke-width="1.2" stroke-dasharray="2 8"/>
+<path d="M118 40c0-14 18-22 30-14 12 8 12 24 0 32-12 8-30 0-30-18z" fill="#e0c7b7" opacity=".4"/>
+<path d="M1282 40c0-14 18-22 30-14 12 8 12 24 0 32-12 8-30 0-30-18z" fill="#e0c7b7" opacity=".4"/>
+<path d="M690 14l18 26-18 26-18-26z" fill="#b78d7e" opacity=".6"/>
+<path d="M698 31l10 9-10 9-10-9z" fill="#fff8ef"/>
+</svg>

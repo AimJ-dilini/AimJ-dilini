@@ -1,33 +1,26 @@
 name: Generate contribution snake
 
 on:
-  # Refresh the contribution garden once per day.
   schedule:
     - cron: "20 2 * * *"
-  # Allow the animation to be refreshed manually.
   workflow_dispatch:
-  # Regenerate after changes are pushed to the profile repository.
   push:
     branches:
       - main
 
-# The workflow publishes generated files to the output branch.
 permissions:
   contents: write
 
-# Keep only the newest generation run active.
 concurrency:
   group: contribution-snake
   cancel-in-progress: true
 
 jobs:
   generate:
-    name: Generate and publish contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      # Generate light, dark, and pastel GIF variants from the owner's contributions.
       - name: Generate snake assets
         uses: Platane/snk@v3
         with:
@@ -35,11 +28,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-pastel.gif?color_snake=#ff77a8&color_dots=#fff7e8,#fbd6df,#bdeaea,#87d8dc,#55c8d5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Publish the generated assets to the branch referenced by README.md.
       - name: Publish snake assets
         uses: peaceiris/actions-gh-pages@v4
         with:

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 720" role="img" aria-labelledby="title desc">
+<title id="title">AIMJWEB anime poster hero</title>
+<desc id="desc">Original retro anime poster style banner for Dilini's Dev Shrine.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#f4e6d6"/>
+<stop offset=".45" stop-color="#fff8ef"/>
+<stop offset="1" stop-color="#d7b5a3"/>
+</linearGradient>
+<linearGradient id="warm" x1="0" x2="1">
+<stop offset="0" stop-color="#c68f7f"/>
+<stop offset="1" stop-color="#7e5d52"/>
+</linearGradient>
+<pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="2" r="1" fill="#7f645b" opacity=".08"/>
+<circle cx="11" cy="6" r=".9" fill="#7f645b" opacity=".06"/>
+<circle cx="6" cy="14" r=".7" fill="#7f645b" opacity=".07"/>
+</pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+<path d="M0 0H4" stroke="#7d625a" stroke-width=".5" opacity=".08"/>
+</pattern>
+<filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+<feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#6e564c" flood-opacity=".18"/>
+</filter>
+<g id="portrait">
+<rect width="118" height="164" rx="10" fill="#f7eadf" stroke="#8a695e" stroke-width="2"/>
+<rect x="8" y="8" width="102" height="148" rx="8" fill="#ead6c5" opacity=".7"/>
+<path d="M59 36c18 0 30 14 30 31s-12 33-30 33-30-15-30-33 12-31 30-31z" fill="#b38b7d" opacity=".85"/>
+<path d="M29 146c6-26 18-44 30-44s24 18 30 44" fill="#9c7368" opacity=".82"/>
+<path d="M32 44c8-12 19-19 27-19s20 7 27 19" fill="none" stroke="#6e564c" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+</g>
+<g id="panel">
+<rect width="116" height="82" rx="8" fill="#fbf3ea" stroke="#8b695e" stroke-width="2"/>
+<rect x="9" y="9" width="98" height="64" rx="5" fill="#f1dfcf" stroke="#c7aa99" stroke-width="1"/>
+<path d="M10 66L106 14" stroke="#b58d80" stroke-width="1.1" opacity=".45"/>
+<path d="M14 16h90M14 23h76" stroke="#8c6b5f" stroke-width="1" opacity=".22"/>
+</g>
+</defs>
+<rect width="1800" height="720" fill="url(#bg)"/>
+<rect width="1800" height="720" fill="url(#scan)"/>
+<rect x="28" y="28" width="1744" height="664" rx="22" fill="none" stroke="#8a695e" stroke-width="3"/>
+<rect x="54" y="54" width="1692" height="612" rx="18" fill="url(#grain)" stroke="#c7aa99" stroke-width="1.5"/>
+<g filter="url(#shadow)">
+<path d="M104 114h340l-52 164H52z" fill="#e8d2c2" stroke="#9c7368" stroke-width="3"/>
+<path d="M134 142h280l-42 112H92z" fill="#fbf3ea" opacity=".7"/>
+<path d="M132 130h232l-26 150H106z" fill="#cfae9c" opacity=".34"/>
+<path d="M1398 92h284l46 164h-338z" fill="#e0c7b7" stroke="#9c7368" stroke-width="3"/>
+<path d="M1434 118h214l31 116h-256z" fill="#fbf3ea" opacity=".7"/>
+<path d="M1416 108h238l27 150h-278z" fill="#cfae9c" opacity=".34"/>
+</g>
+<g transform="translate(430 110)" filter="url(#shadow)">
+<rect x="0" y="0" width="940" height="500" rx="28" fill="#f8efe4" stroke="#8a695e" stroke-width="4"/>
+<rect x="26" y="26" width="888" height="448" rx="22" fill="#fff9f2" stroke="#c7aa99" stroke-width="2"/>
+<path d="M66 56h808M66 446h808" stroke="#a88476" stroke-width="2" stroke-dasharray="4 10"/>
+<path d="M70 68l800 304M70 368l800-300" stroke="#c6ab9b" stroke-width="1.2" opacity=".22"/>
+<path d="M206 88c72-54 170-86 260-70 78 14 144 60 172 124 24 56 17 128-20 176-50 65-140 95-225 88-108-9-204-74-242-160-24-53-12-120 55-158z" fill="#cfab9b" opacity=".22"/>
+<path d="M264 112c58-18 132-10 186 20 56 31 92 80 94 138 2 67-35 132-94 170-51 33-117 45-182 32-67-14-129-57-159-112-31-57-28-128 8-179 37-52 86-64 147-69z" fill="#a97767" opacity=".28"/>
+<path d="M360 128c-24 24-36 56-36 92 0 25 7 47 20 66-10 30-12 64-5 98 8 35 27 66 55 88" fill="none" stroke="#6f574f" stroke-width="26" stroke-linecap="round" opacity=".12"/>
+<path d="M476 126c56 4 104 32 136 76 28 40 38 92 30 142-10 62-47 116-101 149-52 31-117 41-174 26 23-27 38-60 43-95 4-29-1-58-14-84 17-35 20-76 10-116-10-40-31-74-55-98 40-3 81-6 125 0z" fill="url(#warm)" opacity=".75"/>
+<path d="M342 182c-13 10-24 24-30 40-8 21-9 44-4 66 7 30 27 60 54 82 17 14 37 24 58 30 10-11 18-24 24-37-24-13-45-32-58-56-13-23-18-48-16-74 2-20 8-37 17-51-18-4-31-3-45 0z" fill="#4d3b36" opacity=".7"/>
+<path d="M468 166c14 8 26 20 35 34 11 18 16 39 15 61-1 31-13 62-34 89-18 23-42 40-69 51-9-12-16-25-20-39 25-9 46-25 60-47 15-23 21-49 20-76-1-18-6-36-13-52 9-7 16-13 22-21z" fill="#6d544d" opacity=".8"/>
+<path d="M310 168c25-18 60-26 92-20 32 6 60 24 79 51 18 26 27 58 25 91-2 27-11 53-25 76-14 22-32 40-54 53-4-26-15-52-33-74-21-25-48-43-79-50-28-6-57-4-83 7-5-31-1-63 14-91 14-27 35-49 64-63z" fill="#f1e0cf" opacity=".62"/>
+<path d="M306 216c26-18 60-22 92-12 28 9 51 30 63 58 11 25 11 53 2 79-10 28-30 53-57 69-23 14-50 20-77 18-29-3-58-15-80-35 1-27 10-51 27-71 16-18 38-31 60-39 0-23-1-47 0-67z" fill="#fff8ef" opacity=".72"/>
+<path d="M258 474c27 12 55 23 83 29 18 4 37 6 56 5 27 0 53-5 79-14 25-9 47-21 65-37 17-16 29-36 36-58 6-20 7-42 1-63-7-26-21-49-39-67-16-16-36-29-58-37-19-7-39-11-58-10-29 1-58 10-83 25-30 19-54 47-69 79-15 31-19 66-12 100 6 28 18 53 39 78z" fill="none" stroke="#6f574f" stroke-width="3" opacity=".18"/>
+<path d="M394 224c18 4 32 16 38 32 5 13 4 28-3 40-6 10-16 18-29 21-15 3-31-1-42-10-10-8-17-21-18-35-1-16 5-30 16-40 11-10 25-13 38-8z" fill="#6f574f" opacity=".55"/>
+<path d="M355 286c26-14 60-11 82 9 17 15 25 37 22 58-2 18-11 34-26 45-10 7-23 12-36 13-18 1-37-6-50-19-12-12-18-29-17-46 1-21 10-40 25-52z" fill="#f6eee4" opacity=".88"/>
+<path d="M331 360c30-9 63-7 91 7 14 7 27 17 37 30 8 9 14 20 17 31" fill="none" stroke="#4d3b36" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+<path d="M515 282c15 0 27 11 28 26 1 17-10 31-27 31-15 0-28-12-29-27-1-17 12-30 28-30z" fill="#4d3b36" opacity=".76"/>
+<path d="M444 234c12 4 20 12 23 23 3 10 2 21-4 30-7 10-17 16-29 17-13 1-25-4-33-13-8-9-11-21-9-33 3-13 12-24 24-28 10-4 19-3 28 4z" fill="#f8efe4" opacity=".86"/>
+<path d="M448 243c6 2 10 6 12 12 1 6 0 12-4 17-4 6-11 9-18 9-8 0-15-3-19-8-4-5-6-12-5-18 2-8 7-14 15-17 5-2 12-2 19 5z" fill="#4d3b36" opacity=".78"/>
+<path d="M460 172c18 6 36 18 50 36 17 20 27 46 30 73 2 18 0 36-4 53 17 17 31 37 41 58" fill="none" stroke="#7c5f54" stroke-width="12" stroke-linecap="round" opacity=".22"/>
+</g>
+<g transform="translate(650 86)" filter="url(#shadow)">
+<g>
+<use href="#panel" x="0" y="0"/>
+<use href="#portrait" x="2" y="96" />
+<use href="#panel" x="134" y="0"/>
+<use href="#portrait" x="136" y="96" />
+<use href="#panel" x="268" y="0"/>
+<use href="#portrait" x="270" y="96" />
+<use href="#panel" x="402" y="0"/>
+<use href="#portrait" x="404" y="96" />
+<use href="#panel" x="536" y="0"/>
+<use href="#portrait" x="538" y="96" />
+<use href="#panel" x="670" y="0"/>
+<use href="#portrait" x="672" y="96" />
+<use href="#panel" x="804" y="0"/>
+<use href="#portrait" x="806" y="96" />
+<use href="#panel" x="938" y="0"/>
+<use href="#portrait" x="940" y="96" />
+<use href="#panel" x="0" y="206"/>
+<use href="#portrait" x="2" y="302" />
+<use href="#panel" x="134" y="206"/>
+<use href="#portrait" x="136" y="302" />
+<use href="#panel" x="268" y="206"/>
+<use href="#portrait" x="270" y="302" />
+<use href="#panel" x="402" y="206"/>
+<use href="#portrait" x="404" y="302" />
+<use href="#panel" x="536" y="206"/>
+<use href="#portrait" x="538" y="302" />
+<use href="#panel" x="670" y="206"/>
+<use href="#portrait" x="672" y="302" />
+<use href="#panel" x="804" y="206"/>
+<use href="#portrait" x="806" y="302" />
+<use href="#panel" x="938" y="206"/>
+<use href="#portrait" x="940" y="302" />
+<use href="#panel" x="0" y="412"/>
+<use href="#portrait" x="2" y="508" />
+<use href="#panel" x="134" y="412"/>
+<use href="#portrait" x="136" y="508" />
+<use href="#panel" x="268" y="412"/>
+<use href="#portrait" x="270" y="508" />
+<use href="#panel" x="402" y="412"/>
+<use href="#portrait" x="404" y="508" />
+<use href="#panel" x="536" y="412"/>
+<use href="#portrait" x="538" y="508" />
+<use href="#panel" x="670" y="412"/>
+<use href="#portrait" x="672" y="508" />
+<use href="#panel" x="804" y="412"/>
+<use href="#portrait" x="806" y="508" />
+<use href="#panel" x="938" y="412"/>
+<use href="#portrait" x="940" y="508" />
+</g>
+</g>
+<g transform="translate(120 548)">
+<rect x="0" y="0" width="1360" height="74" rx="14" fill="#f7ece0" opacity=".96" stroke="#8a695e" stroke-width="2"/>
+<text x="40" y="32" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="6" fill="#6f574f">AIMJWEB</text>
+<text x="40" y="58" font-family="Verdana, Arial, sans-serif" font-size="16" letter-spacing="3" fill="#a87663">Dilini's Dev Shrine</text>
+<text x="1104" y="30" text-anchor="end" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#7c5f54">AI Products  Flutter  Soft UI</text>
+<path d="M714 12h622M714 61h622" stroke="#c7aa99" stroke-width="2" stroke-dasharray="4 10" opacity=".8"/>
+</g>
+</svg>

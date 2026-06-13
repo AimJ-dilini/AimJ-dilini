@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 920" role="img" aria-labelledby="title desc">
+<title id="title">Profile poster card</title>
+<desc id="desc">An original retro anime magazine-style profile card for Dilini.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#fff8ef"/>
+<stop offset="1" stop-color="#d5b39e"/>
+</linearGradient>
+<pattern id="grain" width="16" height="16" patternUnits="userSpaceOnUse">
+<circle cx="3" cy="3" r=".9" fill="#7f645b" opacity=".08"/>
+<circle cx="10" cy="6" r=".7" fill="#7f645b" opacity=".06"/>
+<circle cx="7" cy="13" r=".6" fill="#7f645b" opacity=".05"/>
+</pattern>
+<filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+<feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#6f574f" flood-opacity=".18"/>
+</filter>
+</defs>
+<rect width="700" height="920" rx="30" fill="url(#paper)"/>
+<rect width="700" height="920" rx="30" fill="url(#grain)"/>
+<rect x="26" y="26" width="648" height="868" rx="24" fill="#f8efe4" stroke="#8a695e" stroke-width="3"/>
+<rect x="46" y="46" width="608" height="828" rx="18" fill="#fff9f2" stroke="#c7aa99" stroke-width="2"/>
+<g filter="url(#shadow)">
+<rect x="92" y="88" width="516" height="424" rx="20" fill="#ead7c8" stroke="#8a695e" stroke-width="2"/>
+<rect x="116" y="112" width="468" height="376" rx="16" fill="#f7ecdf" stroke="#c7aa99" stroke-width="1.6"/>
+<path d="M148 436c52-116 124-182 202-190 82-9 154 37 202 132 12 23 21 52 27 86" fill="none" stroke="#6e564c" stroke-width="24" stroke-linecap="round" opacity=".10"/>
+<path d="M266 202c-34 31-52 71-52 120 0 39 12 73 34 101 18 23 42 40 71 53 19-24 31-52 37-84-28-12-49-31-61-58-12-26-12-53-4-83 8-29 24-54 45-75-23-11-46-14-70-9z" fill="#8b695e" opacity=".72"/>
+<path d="M368 192c34 15 60 41 76 77 16 37 19 79 9 120-8 31-23 58-43 81-16-10-30-22-40-38 20-28 31-60 31-96 0-42-11-76-33-101-7-8-15-16-24-22 8-9 16-15 24-21z" fill="#6f574f" opacity=".75"/>
+<path d="M334 246c13 0 25 6 34 16 8 9 12 21 11 34-1 16-7 30-18 41-10 10-23 16-36 17-16 1-31-4-42-14-11-10-16-24-16-39 0-17 6-32 18-43 12-12 28-17 49-12z" fill="#f5eee6" opacity=".92"/>
+<path d="M318 294c12-6 27-5 38 3 11 8 16 20 15 34-2 13-8 24-19 31-9 6-21 8-32 7-13-2-25-8-31-19-7-10-8-22-4-33 4-12 13-20 33-23z" fill="#6f574f" opacity=".75"/>
+<path d="M194 500c49 22 102 33 155 33 62 0 121-14 175-43 24-13 45-29 64-48" fill="none" stroke="#8a695e" stroke-width="3" opacity=".25"/>
+</g>
+<g>
+<rect x="110" y="552" width="480" height="270" rx="18" fill="#f9efe5" stroke="#8a695e" stroke-width="2"/>
+<path d="M128 590h444M128 626h444M128 662h444M128 698h444M128 734h444" stroke="#c7aa99" stroke-width="1.1" stroke-dasharray="2 8" opacity=".8"/>
+<text x="150" y="604" font-family="Verdana, Arial, sans-serif" font-size="18" letter-spacing="3" fill="#a87663">PROFILE</text>
+<text x="536" y="604" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="6" fill="#6f574f">AIMJ</text>
+<text x="150" y="732" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#7c5f54">DIGITAL CHARACTER SHEET / AI PRODUCT BUILDER</text>
+<path d="M154 650h104v8H154zM154 668h176v8H154zM154 686h132v8H154z" fill="#d0b09c" opacity=".7"/>
+<path d="M452 646h72v72h-72z" fill="#e0c7b7" opacity=".6" stroke="#8a695e" stroke-width="1.5"/>
+<path d="M468 660c8-8 18-12 28-12 11 0 20 4 28 12" fill="none" stroke="#6f574f" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+<path d="M462 688c8 3 16 4 24 4 10 0 19-1 28-4" fill="none" stroke="#6f574f" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+</g>
+<path d="M58 66l132-26 12 60-132 26z" fill="#e0c7b7" opacity=".7" stroke="#b78d7e"/>
+<path d="M552 22l126 30-12 58-126-30z" fill="#e0c7b7" opacity=".7" stroke="#b78d7e"/>
+<path d="M78 848h544" stroke="#c7aa99" stroke-width="2" stroke-dasharray="2 10"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" role="img" aria-labelledby="title desc">
+<title id="title">Project panel</title>
+<desc id="desc">A retro framed project panel with warm paper texture.</desc>
+<defs>
+<pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse">
+<circle cx="3" cy="3" r=".8" fill="#7f645b" opacity=".07"/>
+<circle cx="11" cy="7" r=".6" fill="#7f645b" opacity=".05"/>
+</pattern>
+<filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+<feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#6f574f" flood-opacity=".16"/>
+</filter>
+</defs>
+<rect width="820" height="520" rx="26" fill="#f8efe4"/>
+<rect width="820" height="520" rx="26" fill="url(#grain)"/>
+<rect x="22" y="22" width="776" height="476" rx="20" fill="#fff9f2" stroke="#8a695e" stroke-width="3"/>
+<g filter="url(#shadow)">
+<rect x="52" y="52" width="716" height="420" rx="18" fill="#efe0d2" stroke="#c7aa99" stroke-width="2"/>
+<rect x="74" y="74" width="672" height="374" rx="14" fill="#fbf3ea" stroke="#8a695e" stroke-width="2"/>
+<path d="M74 126h672" stroke="#c7aa99" stroke-width="1.4" stroke-dasharray="2 9"/>
+<path d="M74 154h672" stroke="#c7aa99" stroke-width="1.4" stroke-dasharray="2 9"/>
+<path d="M88 88l108 62M712 88l-108 62" stroke="#b78d7e" stroke-width="2" opacity=".35"/>
+<path d="M90 404h640" stroke="#8a695e" stroke-width="1.5" stroke-dasharray="2 8" opacity=".55"/>
+<rect x="118" y="238" width="584" height="112" rx="10" fill="#f6ecdf" stroke="#c7aa99" stroke-width="1.2"/>
+<path d="M142 266h320M142 292h420M142 318h250" stroke="#8a695e" stroke-width="2" opacity=".18"/>
+<text x="142" y="222" font-family="Verdana, Arial, sans-serif" font-size="17" letter-spacing="4" fill="#a87663">PROJECT PANEL</text>
+<text x="654" y="222" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="5" fill="#6f574f">FRAME</text>
+<path d="M584 250h114v114H584z" fill="#d7b5a3" opacity=".45" stroke="#8a695e" stroke-width="1.4"/>
+<path d="M612 270c13-8 28-10 43-6 18 5 33 17 43 34" fill="none" stroke="#6f574f" stroke-width="4" stroke-linecap="round" opacity=".5"/>
+</g>
+</svg>
