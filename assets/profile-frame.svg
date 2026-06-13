@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 430" role="img" aria-labelledby="title desc">
+  <title id="title">Profile image frame</title>
+  <desc id="desc">An empty pastel polaroid frame with subtle paper grid and corner tape.</desc>
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#a9ceca" stroke-width=".7" opacity=".4"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#806765" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="30" y="24" width="300" height="382" rx="4" fill="#fffaf0" stroke="#c9919e" stroke-width="2"/>
+    <rect x="48" y="48" width="264" height="280" fill="url(#grid)" stroke="#91c5c2" stroke-width="2"/>
+    <path d="M58 316L302 58M58 58l244 258" stroke="#c8dcda" stroke-width="1"/>
+    <rect x="78" y="354" width="204" height="30" fill="#f8ebe8" stroke="#dfbdc1"/>
+    <text x="180" y="374" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#806765">profile.png</text>
+  </g>
+  <g fill="#dfd1b8" fill-opacity=".72" stroke="#c9b99f">
+    <path d="M13 35l93-22 8 34-93 22z"/><path d="M247 18l96 19-7 34-96-19z"/>
+  </g>
+  <g fill="#d19aa6"><circle cx="54" cy="374" r="2"/><circle cx="306" cy="374" r="2"/></g>
+</svg>
