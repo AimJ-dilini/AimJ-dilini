@@ -281,18 +281,9 @@ Working on ideas involving:
   />
 </p>
 
-## GitHub Activity
+## My Contribution World ✨
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimJ-dilini&theme=github_dark"
-width="100%"
-alt="Dilini's GitHub activity"
-/>
-
-</div>
-
+ 
 <br />
   
 <div align="center">
@@ -305,7 +296,8 @@ alt="Dilini's GitHub activity"
 
 </div>
 <br /><br />
-### Contribution Trail
+
+## Contribution Trail
 
 <div align="center">
 
