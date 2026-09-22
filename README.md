@@ -51,10 +51,19 @@ alt="Typing introduction"
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Sri_Lanka-161B22?style=flat-square&labelColor=161B22&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Remote-161B22?style=flat-square&labelColor=161B22&color=8B5CF6" />
 <img src="https://img.shields.io/badge/Flutter_+_AI-161B22?style=flat-square&labelColor=161B22&color=06B6D4" />
 <img src="https://img.shields.io/badge/Currently_Building-161B22?style=flat-square&labelColor=161B22&color=EC4899" />
 
+</div>
+
+
+<br /><br />
+<div align="center">
+  <img
+    src="https://count.getloli.com/get/@AimJ-dilini?theme=booru-lewd"
+    alt="Visitor Count"
+  />
 </div>
 
 <br />
@@ -71,7 +80,7 @@ alt="Typing introduction"
 
 <a id="about-me"></a>
 
-Hi! I'm **Dilini**, a developer from Sri Lanka who enjoys building clean, thoughtful and expressive digital products.
+Hi! I'm **Dilini**, a developer who enjoys building clean, thoughtful and expressive digital products.
 
 My main focus is **Flutter development**, while I'm also exploring how **AI, backend systems and good product design** can work together to create better mobile experiences.
 
@@ -285,8 +294,18 @@ alt="Dilini's GitHub activity"
 </div>
 
 <br />
+  
+<div align="center">
 
-## Contribution Trail
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="Dilini's 3D contribution graph"
+/>
+
+</div>
+<br /><br />
+### Contribution Trail
 
 <div align="center">
 
@@ -335,16 +354,12 @@ I'm always interested in **Flutter, AI, UI design and interesting product ideas.
 
 <a href="https://dev.to/aimj">
 <img src="https://img.shields.io/badge/Dev.to-161B22?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hp_dilini">
-<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=EC4899" />
-</a>
+</a> 
 
 <a href="mailto:hpdilinibuddhika@gmail.com">
 <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EC4899" />
 </a>
-
+ 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile+Views&color=8B5CF6&style=flat-square" />
