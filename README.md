@@ -1,186 +1,378 @@
 <!--
-Dilini's Dev Shrine
-Original SVG artwork lives in /assets.
+  Dilini's GitHub Profile
+  Flutter • AI • Product UI
 -->
+
+<div align="center">
+
 <p align="center">
-<img src="./assets/aimj-hero-poster.svg" width="100%" alt="AIMJWEB anime poster hero" />
+  <img
+    src="https://media.giphy.com/media/877Gs6ncX9yqj10HTe/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 1"
+  />
+  <img
+    src="https://media.giphy.com/media/oueKrSkOtL0IlPkqhs/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 2"
+  />
+  <img
+    src="https://media.giphy.com/media/1BeZWTgoU73cMusGsf/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 3"
+  />
 </p>
+
+<br />
+
+# Hi, I'm Dilini 👋
+
+### Flutter Developer · AI Product Builder · UI Explorer
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=2700&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+beautiful+mobile+experiences;Exploring+AI-powered+products;Flutter+%2B+thoughtful+UI+%2B+AI;Turning+ideas+into+real+products"
+alt="Typing introduction"
+/>
+
+<br />
+
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/About_Me-161B22?style=for-the-badge" />
+</a>
+<a href="#selected-work">
+  <img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge" />
+</a>
+<a href="#tech-stack">
+  <img src="https://img.shields.io/badge/Tech_Stack-161B22?style=for-the-badge" />
+</a>
+<a href="#connect">
+  <img src="https://img.shields.io/badge/Connect-06B6D4?style=for-the-badge" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Sri_Lanka-161B22?style=flat-square&labelColor=161B22&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Flutter_+_AI-161B22?style=flat-square&labelColor=161B22&color=06B6D4" />
+<img src="https://img.shields.io/badge/Currently_Building-161B22?style=flat-square&labelColor=161B22&color=EC4899" />
+
+</div>
+
+<br />
 <p align="center">
-<a href="https://github.com/AimJ-dilini/AimJ-dilini#readme">Home</a>
-&nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#profile">Profile</a>
-&nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#project-gallery">Projects</a>
-&nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#build-room">Build Room</a>
-&nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#guestbook">Guestbook</a>
+  <img
+    src="https://media.giphy.com/media/NaZTMzp9wExfPoboWR/giphy.gif"
+    width="100%"
+    height=20
+    alt="Animated divider"
+  />
 </p>
+
+## About Me
+
+<a id="about-me"></a>
+
+Hi! I'm **Dilini**, a developer from Sri Lanka who enjoys building clean, thoughtful and expressive digital products.
+
+My main focus is **Flutter development**, while I'm also exploring how **AI, backend systems and good product design** can work together to create better mobile experiences.
+
+I especially enjoy the space between **design and development** — taking an idea from a rough concept and turning it into something that looks polished and actually works.
+
+```text
+Role          Flutter Developer / AI Product Builder
+Focus         Flutter • AI • Product UI
+Currently     Building and improving mobile products
+Interests     Clean UI • AI Apps • Product Experiences
+```
+
+> I like interfaces that feel simple at first glance,
+> but have a lot of thought behind them.
+
+<br />
+
+## Tech Stack
+
+<a id="tech-stack"></a>
+
+<div align="center">
+
+<img
+src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nodejs,express,postgres,firebase,docker,git,githubactions,figma&theme=dark"
+alt="Technology stack"
+/>
+
+<br /><br />
+
+`Flutter`
+  `Dart`
+  `React`
+  `TypeScript`
+  `Node.js`
+  `Express`
+
+`PostgreSQL`
+  `Firebase`
+  `Docker`
+  `Git`
+  `GitHub Actions`
+  `Figma`
+
+</div>
+
+<br />
+
+## Currently Building
+
+I'm currently spending most of my time around:
+
+* 📱 Flutter mobile applications
+* ✨ Clean and polished product interfaces
+* 🤖 AI-powered app features
+* 🧠 Better application architecture
+* ⚙️ Backend development with Node.js
+* 🎨 UI systems that feel simple, soft and professional
+
+```yaml
+current_focus:
+  mobile: Flutter
+  backend: Node.js
+  ai: AI-powered product features
+  design: clean and expressive interfaces
+
+learning:
+  - backend architecture
+  - product engineering
+  - AI integration
+  - better Flutter architecture
+```
+
+<br />
+
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=site+hits&color=b78d7e&style=flat-square" alt="Site hits" />
-<img src="https://img.shields.io/github/followers/AimJ-dilini?label=readers&style=flat-square&color=c9b29a&labelColor=fff8ef" alt="GitHub followers" />
+  <img
+    src="https://media.giphy.com/media/RLbdgn0S36my2VfInK/giphy.gif"
+    width="100%"
+    height=50
+    alt="Animated divider"
+  />
 </p>
-<p align="center">
-<em>Welcome to my anime poster-style developer shrine.</em>
-</p>
-<p align="center">
-<img src="./assets/section-divider.svg" alt="Vintage section divider" width="780" />
-</p>
+
+## Selected Work
+
+<a id="selected-work"></a>
+
 <table>
 <tr>
-<td width="22%" valign="top">
-<h3 align="center">DIRECTORY</h3>
-<p>
-<a href="https://github.com/AimJ-dilini/AimJ-dilini#readme">Home</a><br />
-<a href="https://github.com/AimJ-dilini?tab=repositories">Repositories</a><br />
-<a href="#project-gallery">Projects</a><br />
-<a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">Zaper AI</a><br />
-<a href="https://github.com/AimJ-dilini/flutter_rpg">Flutter RPG</a><br />
-<a href="https://github.com/AimJ-dilini/chatgpt_app">ChatGPT App</a><br />
-<a href="https://github.com/AimJ-dilini/todo_hive_app">Todo Hive App</a><br />
-<a href="#build-room">Build Room</a><br />
-<a href="#guestbook">Message Me</a>
-</p>
-<hr />
-<h3 align="center">UPDATE LOG</h3>
-<p>
-<strong>06.12.26</strong><br />
-redesigning my GitHub shrine
-</p>
-<p>
-<strong>06.10.26</strong><br />
-building AI-powered Flutter apps
-</p>
-<p>
-<strong>06.07.26</strong><br />
-tuning soft UI components
-</p>
-<p>
-<strong>06.01.26</strong><br />
-polishing product flows
-</p>
-<hr />
-<h3 align="center">VISITOR LOG</h3>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=visitors&color=b78d7e&style=flat-square" alt="Visitor count" /><br />
-<img src="https://img.shields.io/github/followers/AimJ-dilini?label=followers&style=flat-square&color=c9b29a&labelColor=fff8ef" alt="Follower count" />
-</p>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Chat Mobile
+
+**Flutter + AI application**
+
+A conversational AI mobile experiment built with Flutter and a custom Node.js / Express backend.
+
+The backend handles communication with the AI service so sensitive credentials are not stored inside the mobile application.
+
+**Built with**
+
+`Flutter` `Dart` `Node.js` `Express` `AI`
+
+<br />
+
+<a href="https://github.com/AimJ-dilini/chatgpt_app">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
-<td width="52%" valign="top">
-<h2 align="center" id="profile">PROFILE CARD</h2>
-<p align="center">
-<img src="./assets/profile-poster-card.svg" alt="Anime style profile poster card" width="260" />
-</p>
-<p align="center">
-<strong>Name:</strong> Dilini<br />
-<strong>Role:</strong> AI Product Builder / Flutter Developer<br />
-<strong>Location:</strong> Sri Lanka<br />
-<strong>Building:</strong> Zaper AI<br />
-<strong>Design Direction:</strong> Soft, playful product systems<br />
-<strong>Favorite Work:</strong> Clean UI, AI apps, product experiences<br />
-<strong>Email:</strong> <a href="mailto:hpdilinibuddhika@gmail.com">hpdilinibuddhika@gmail.com</a>
-</p>
-<p align="center">
-Hi, Im Dilini. I build clean mobile experiences with Flutter and explore how AI can make apps smarter, softer, and more useful.
-</p>
-<h2 align="center" id="project-gallery">DEV SHRINE / PROJECT GALLERY</h2>
-<p align="center">
-<sub>selected work / tiny archive of things I build</sub>
-</p>
-<p>
-<strong>1. <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">Zaper AI</a></strong>
-<img src="https://img.shields.io/badge/active-b78d7e?style=flat-square&labelColor=fff8ef" alt="active" /><br />
-<sub>AI product experiments and smart app experiences. link: <a href="https://github.com/AimJ-dilini?tab=repositories&q=zaper">view repository</a></sub>
-</p>
-<hr />
-<p>
-<strong>2. <a href="https://github.com/AimJ-dilini/flutter_rpg">Flutter RPG</a></strong>
-<img src="https://img.shields.io/badge/building-c9b29a?style=flat-square&labelColor=fff8ef" alt="building" /><br />
-<sub>A Flutter interface for building RPG characters. link: <a href="https://github.com/AimJ-dilini/flutter_rpg">view repository</a></sub>
-</p>
-<hr />
-<p>
-<strong>3. <a href="https://github.com/AimJ-dilini/chatgpt_app">ChatGPT App</a></strong>
-<img src="https://img.shields.io/badge/updating-ae9a86?style=flat-square&labelColor=fff8ef" alt="updating" /><br />
-<sub>A mobile exploration of conversational AI. link: <a href="https://github.com/AimJ-dilini/chatgpt_app">view repository</a></sub>
-</p>
-<hr />
-<p>
-<strong>4. <a href="https://github.com/AimJ-dilini/todo_hive_app">Todo Hive App</a></strong>
-<img src="https://img.shields.io/badge/stable-8f9d8a?style=flat-square&labelColor=fff8ef" alt="stable" /><br />
-<sub>A clean local-first productivity app. link: <a href="https://github.com/AimJ-dilini/todo_hive_app">view repository</a></sub>
-</p>
-<h2 align="center" id="build-room">BUILD ROOM</h2>
-<p>
-<strong>Currently Building:</strong> Zaper AI, AI-powered Flutter interfaces, clean mobile product experiences, and this personal GitHub shrine.
-</p>
-<p>
-<strong>Current Focus:</strong> Flutter UI, AI features, product polish, smooth user experiences, and soft but professional design systems.
-</p>
+
+<td width="50%" valign="top">
+
+### ✅ TaskNest
+
+**Local-first productivity app**
+
+A minimal Flutter task manager focused on simple interactions, responsive UI and fast local persistence.
+
+**Highlights**
+
+`Offline Storage` `Hive` `Animations` `Responsive UI`
+
+<br />
+
+<a href="https://github.com/AimJ-dilini/todo_hive_app">
+<img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
-<td width="26%" valign="top">
-<h3 align="center">STATUS</h3>
-<p>
-<strong>Online:</strong> yes<br />
-<strong>Mood:</strong> building mode<br />
-<strong>Focus:</strong> Flutter + AI<br />
-<strong>Current Quest:</strong> Zaper AI<br />
-<strong>Side Quest:</strong> profile shrine polish<br />
-<strong>UI Energy:</strong> soft, clean, expressive
-</p>
-<hr />
-<h3 align="center">TECH STICKERS</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-fff8ef?style=flat-square&logo=flutter&logoColor=6daeb2" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-fff8ef?style=flat-square&logo=dart&logoColor=6daeb2" alt="Dart" />
-<img src="https://img.shields.io/badge/Firebase-fff8ef?style=flat-square&logo=firebase&logoColor=b78d7e" alt="Firebase" />
-<img src="https://img.shields.io/badge/Python-fff8ef?style=flat-square&logo=python&logoColor=6daeb2" alt="Python" />
-<img src="https://img.shields.io/badge/OpenAI-fff8ef?style=flat-square&logo=openai&logoColor=b78d7e" alt="OpenAI" />
-<img src="https://img.shields.io/badge/React-fff8ef?style=flat-square&logo=react&logoColor=6daeb2" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-fff8ef?style=flat-square&logo=nodedotjs&logoColor=8f9d8a" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-fff8ef?style=flat-square&logo=docker&logoColor=6daeb2" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-fff8ef?style=flat-square&logo=git&logoColor=b78d7e" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-fff8ef?style=flat-square&logo=githubactions&logoColor=6daeb2" alt="GitHub Actions" />
-</p>
-<hr />
-<h3 align="center" id="guestbook">GUESTBOOK</h3>
-<p align="center">
-thanks for visiting my little corner of GitHub
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/dilini98">LinkedIn</a><br />
-<a href="https://dev.to/aimj">Dev.to</a><br />
-<a href="https://www.instagram.com/hp_dilini">Instagram</a><br />
-<a href="mailto:hpdilinibuddhika@gmail.com">Email</a>
-</p>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Flutter RPG
+
+**Character selection experience**
+
+A Flutter project exploring RPG-style character interfaces and interactive mobile UI.
+
+**Built with**
+
+`Flutter` `Dart` `Firebase`
+
+<br />
+
+<a href="https://github.com/AimJ-dilini/flutter_rpg">
+<img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
+
+<td width="50%" valign="top">
+
+### ✨ Current Experiments
+
+Working on ideas involving:
+
+* AI-assisted mobile experiences
+* Flutter product development
+* Interactive UI
+* Better user flows
+* Backend integration
+
+<br />
+
+<img src="https://img.shields.io/badge/Always_Building-8B5CF6?style=for-the-badge" />
+
+</td>
+
 </tr>
 </table>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/AimJ-dilini?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
 <p align="center">
-<img src="./assets/section-divider.svg" alt="Vintage section divider" width="780" />
+  <img
+    src="https://media.giphy.com/media/TfwHJLaDTTxVkpsphf/giphy.gif"
+    width="100%"
+    height=20
+    alt="Animated divider"
+  />
 </p>
-<h2 align="center" id="archive">GITHUB STATS TERMINAL</h2>
-<p align="center"><em>little numbers from behind the shrine</em></p>
-<p align="center">
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AimJ-dilini&show_icons=true&hide_border=false&border_color=b78d7e&bg_color=fff8ef&title_color=a87663&text_color=755d52&icon_color=6daeb2" alt="GitHub stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimJ-dilini&layout=compact&hide_border=false&border_color=c9b29a&bg_color=fff8ef&title_color=a87663&text_color=755d52" alt="Top languages" />
-</p>
-<p align="center">
-<img height="155" src="https://streak-stats.demolab.com?user=AimJ-dilini&hide_border=false&border=b78d7e&background=fff8ef&ring=6daeb2&fire=b78d7e&currStreakLabel=a87663&sideLabels=755d52&dates=8d7b72&currStreakNum=755d52&sideNums=755d52" alt="GitHub streak" />
-</p>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AimJ-dilini&bg_color=fff8ef&color=755d52&line=6daeb2&point=b78d7e&area=true&area_color=e8d8cb&hide_border=false&custom_title=development%20archive" alt="GitHub activity graph" />
-</p>
-<h2 align="center">CONTRIBUTION STREAM</h2>
-<p align="center"><em>little pixels moving through my contribution trail</em></p>
-<p align="center">
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AimJ-dilini&theme=github_dark"
+width="100%"
+alt="Dilini's GitHub activity"
+/>
+
+</div>
+
+<br />
+
+## Contribution Trail
+
+<div align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
-<img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/AimJ-dilini/AimJ-dilini/output/github-snake.svg"
+  />
 </picture>
-</p>
+
+</div>
+
+<br />
+
 <p align="center">
-<img src="./assets/footer-strip.svg" alt="Footer strip" width="100%" />
+  <img
+    src="https://media.giphy.com/media/UTHHcWHsgf9wAWmD5C/giphy.gif"
+    width="100%"
+    height=20
+    alt="Animated divider"
+  />
 </p>
-<p align="center">please visit AIMJWEB again soon </p>
+
+## Let's Connect
+
+<a id="connect"></a>
+
+<div align="center">
+
+I'm always interested in **Flutter, AI, UI design and interesting product ideas.**
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/dilini98">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=06B6D4" />
+</a>
+
+<a href="https://dev.to/aimj">
+<img src="https://img.shields.io/badge/Dev.to-161B22?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/hp_dilini">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=EC4899" />
+</a>
+
+<a href="mailto:hpdilinibuddhika@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EC4899" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=AimJ-dilini&label=Profile+Views&color=8B5CF6&style=flat-square" />
+
+
+<br /><br />
+
+### Thanks for visiting 🌸
+
+*See you in the next build.*
+
+<br />
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/M5bgHHakcgss4LAPNp/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 1"
+  />
+  <img
+    src="https://media.giphy.com/media/ts6wDHDziZpWIkGknp/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 2"
+  />
+  <img
+    src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif"
+    width="32%"
+    alt="Anime coding animation 3"
+  />
+</p>
+</div>
